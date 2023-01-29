@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee23a7a-64d7-45f1-98d9-4a5b7003af00" name="Changes" comment="finally">
-      <change afterPath="$PROJECT_DIR$/vilomov/hw4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6ee23a7a-64d7-45f1-98d9-4a5b7003af00" name="Changes" comment="bookmaker parser">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/borussia-dortmund-vs-1-fsv-mainz-05.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/hw3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/hw3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/hw5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/hw5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/site_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/site_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/work_parsing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/work_parsing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +98,11 @@
       <workItem from="1674376587994" duration="25398000" />
       <workItem from="1674458820746" duration="5437000" />
       <workItem from="1674552889484" duration="6054000" />
-      <workItem from="1674632908089" duration="1084000" />
+      <workItem from="1674632908089" duration="11506000" />
+      <workItem from="1674646914553" duration="686000" />
+      <workItem from="1674718526072" duration="596000" />
+      <workItem from="1674806679495" duration="2500000" />
+      <workItem from="1674976919501" duration="961000" />
     </task>
     <task id="LOCAL-00001" summary="finally">
       <created>1672236943478</created>
@@ -104,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672236943478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bookmaker parser">
+      <created>1674634120370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674634120370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bookmaker parser">
+      <created>1674634136177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674634136177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,10 +144,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finally" />
-    <option name="LAST_COMMIT_MESSAGE" value="finally" />
+    <MESSAGE value="bookmaker parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookmaker parser" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/settings$site_parser.coverage" NAME="site_parser Coverage Results" MODIFIED="1674810048052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
   </component>
 </project>
