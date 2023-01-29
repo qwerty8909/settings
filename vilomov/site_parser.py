@@ -31,9 +31,9 @@ def file_maker():
 
 # готовим фрейм для ссылок по каждому спортивному событию
 time_start = datetime.datetime.now()
-type_game = ['football', 'hockey', 'basketball']
-for name_game in type_game:
-    site_link = 'https://odds.ru/' + name_game
+games = ['football', 'hockey', 'basketball']
+for game in games:
+    site_link = 'https://odds.ru/' + game
     site_url = requests.get(site_link).text
     site_soup = BeautifulSoup(site_url, 'lxml')
     site_match = site_soup.find_all('div', class_='mdUFTlKDVVKGiLOEZObL')
@@ -43,7 +43,7 @@ for name_game in type_game:
 
     for row in game_site:
         link = 'https://odds.ru' + row[0]
-        filename = name_game + '-' + link.split('/')[5]
+        filename = game + '-' + link.split('/')[5]
         # проверяем доступность сайта (увеличивает время работы скрипта в 2 раза)
         if requests.get(link).status_code == 200:
             file_maker()

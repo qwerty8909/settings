@@ -1,0 +1,742 @@
+id,com1,com2,game,dt
+ogc-nice-vs-lille-osc,Ницца,Лилль,football1,2023-01-29 15:00:00
+aj-auxerre-vs-montpellier-hsc,Осер,Монпелье,football1,2023-01-29 17:00:00
+clermont-foot-vs-nantes,Клермон,Нант,football1,2023-01-29 17:00:00
+racing-strasbourg-vs-toulouse-fc,Страсбур,Тулуза,football1,2023-01-29 17:00:00
+stade-brest-vs-sco-angers,Брест,Анже,football1,2023-01-29 17:00:00
+ac-ajaccio-vs-olympique-lyon,Аяччо,Лион,football1,2023-01-29 19:05:00
+paris-saint-germain-vs-stade-reims,ПСЖ,Реймс,football1,2023-01-29 22:45:00
+real-valladolid-vs-valencia-cf,Реал Вальядолид,Валенсия,football1,2023-01-29 16:00:00
+ca-osasuna-vs-atletico-madrid,Осасуна,Атлетико Мадрид,football1,2023-01-29 18:15:00
+celta-de-vigo-vs-athletic-bilbao,Сельта,Атлетик Бильбао,football1,2023-01-29 20:30:00
+real-madrid-vs-real-sociedad,Реал Мадрид,Реал Сосьедад,football1,2023-01-29 23:00:00
+ac-milan-vs-us-sassuolo,Милан,Сассуоло,football1,2023-01-29 14:30:00
+juventus-turin-vs-ss-monza-1912,Ювентус,Монца,football1,2023-01-29 17:00:00
+lazio-roma-vs-acf-fiorentina,Лацио,Фиорентина,football1,2023-01-29 20:00:00
+ssc-napoli-vs-as-roma,Наполи,Рома,football1,2023-01-29 22:45:00
+schalke-04-vs-1-fc-cologne,Шальке,Кельн,football1,2023-01-29 17:30:00
+bayer-leverkusen-vs-borussia-dortmund,Байер,Боруссия Дортмунд,football1,2023-01-29 19:30:00
+brighton-hove-albion-fc-vs-liverpool-fc,Брайтон,Ливерпуль,football1,2023-01-29 16:30:00
+stoke-city-vs-stevenage-fc,Сток Сити,Стивенидж,football1,2023-01-29 17:00:00
+wrexham-afc-vs-sheffield-united,Рексем,Шеффилд Юнайтед,football1,2023-01-29 19:30:00
+ascoli-vs-us-palermo,Асколи,Палермо,football1,2023-01-29 16:00:00
+frosinone-calcio-vs-benevento-calcio,Фрозиноне,Беневенто,football1,2023-01-29 18:15:00
+sporting-cp-vs-sporting-braga,Спортинг,Брага,football1,2023-01-29 18:30:00
+casa-pia-atletico-vs-cd-santa-clara,Каса Пиа,Санта-Клара,football1,2023-01-29 18:30:00
+fc-vizela-vs-rio-ave-fc,Визела,Риу Аве,football1,2023-01-29 18:30:00
+boavista-fc-vs-portimonense-sc,Боавишта,Портимоненсе,football1,2023-01-29 21:00:00
+fc-famalicao-vs-gd-estoril-praia,Фамаликан,Эшторил Прая,football1,2023-01-29 23:30:00
+arminia-bielefeld-vs-sv-sandhausen,Арминия,Сандхаузен,football1,2023-01-29 15:30:00
+hamburger-sv-vs-eintracht-braunschweig,Гамбург,Айнтрахт Брауншвейг,football1,2023-01-29 15:30:00
+1-fc-nuremberg-vs-st-pauli,Нюрнберг,Санкт-Паули,football1,2023-01-29 15:30:00
+melbourne-city-fc-vs-adelaide-united-fc,Мельбурн Сити,Аделаида Юнайтед,football1,2023-01-29 07:00:00
+twente-enschede-vs-feyenoord-rotterdam,Твенте,Фейеноорд,football1,2023-01-29 14:15:00
+sbv-excelsior-vs-ajax-amsterdam,Эксельсиор,Аякс,football1,2023-01-29 16:30:00
+volendam-vs-groningen,Волендам,Гронинген,football1,2023-01-29 16:30:00
+cambuur-leeuwarden-vs-fortuna-sittard,Камбюр,Фортуна Ситтард,football1,2023-01-29 18:45:00
+barcelona-guayaquil-vs-mushuc-runa-sc,Барселона Гуаяхиль,Мушук Руна,football1,2023-01-29 04:00:00
+fk-arda-kurdzhali-vs-zorya-lugansk,Арда Куржали,Заря,football1,2023-01-29 11:00:00
+jk-tabasalu-vs-viimsi-jk,Табасалу,Вилмси,football1,2023-01-29 11:10:00
+fk-admira-prague-vs-fk-mlada-boleslav-b,Адмира,Млада-Болеслав Б,football1,2023-01-29 12:30:00
+scr-altach-vs-monaco-2,Альтах,Monaco 2,football1,2023-01-29 13:00:00
+degerfors-if-vs-skovde-aik,Дегерфорс ИФ,АИК Скевде,football1,2023-01-29 15:00:00
+flora-tallinn-vs-valmiera-fk-bjss,Флора,Валмиера,football1,2023-01-29 15:30:00
+karlslunde-if-vs-bk-avarta,Карсллунде,Аварта,football1,2023-01-29 15:30:00
+lokomotiv-moscow-vs-pfc-sochi,Локомотив,Сочи,football1,2023-01-29 16:00:00
+vasalunds-if-vs-ifk-haninge,Васалундс,Ханинге,football1,2023-01-29 16:00:00
+dinamo-moscow-vs-fk-borac-banja-luka,Динамо,Борац Баня Лука,football1,2023-01-29 16:00:00
+sc-dnipro-1-vs-fk-sutjeska-niksic,Днепр-1,Сутьеска Нексич,football1,2023-01-29 17:00:00
+bolivar-la-paz-vs-monagas-sc,Клуб Боливар,Монагас,football1,2023-01-29 23:00:00
+usa-vs-colombia,США,Колумбия,football1,2023-01-29 03:30:00
+juventus-vs-vicenza-calcio,Ювентус U23,Виченца,football1,2023-01-29 14:30:00
+mantova-fc-vs-calcio-lecco,Мантова,Леччо,football1,2023-01-29 16:30:00
+asd-arzignano-valchiampo-vs-us-pergolettese-1932,Арзиньяно,Перголеттезе,football1,2023-01-29 16:30:00
+uc-albinoleffe-vs-piacenza-calcio,Альбинолеффе,Пьяченца,football1,2023-01-29 16:30:00
+calcio-padova-vs-pordenone-calcio,Падова,Порденоне,football1,2023-01-29 16:30:00
+ac-renate-vs-aurora-pro-patria-1919,Ренате,Про Патрия,football1,2023-01-29 16:30:00
+sangiuliano-city-nova-vs-ssd-pro-sesto,Sangiuliano City Nova,Про Сесто,football1,2023-01-29 16:30:00
+novara-calcio-vs-fc-pro-vercelli-1892,Новара,Про Верчелли,football1,2023-01-29 16:30:00
+us-triestina-calcio-1918-vs-ac-trento,Триестина Кальчо,Тренто,football1,2023-01-29 16:30:00
+ac-feralpi-salo-vs-virtus-vecomp-verona,ФеральпиСало,Виртус Векомп,football1,2023-01-29 16:30:00
+messina-fc-vs-us-catanzaro-1929,Мессина,Катандзаро,football1,2023-01-29 16:30:00
+az-picerno-vs-ssd-fidelis-andria-2018,Пичерно,Фиделис Андрия,football1,2023-01-29 16:30:00
+pescara-calcio-vs-foggia-calcio,Пескара,Фоджа,football1,2023-01-29 16:30:00
+asd-turris-calcio-vs-fc-giugliano-1928,Туррис,ФК Гиглиано,football1,2023-01-29 16:30:00
+viterbo-calcio-vs-juve-stabia,Витебро,Юве Стабиа,football1,2023-01-29 16:30:00
+us-avellino-1912-vs-latina-calcio,US Avellino 1912,Латино Кальче,football1,2023-01-29 16:30:00
+crotone-vs-potenza-calcio,Кротоне,Потенца,football1,2023-01-29 16:30:00
+taranto-fc-1927-vs-gelbison-vallo-d-l,Таранто,Джельбизон Валььо,football1,2023-01-29 19:30:00
+virtus-francavilla-calcio-vs-monterosi-fc,Виртус Франкавилья,Монтероси,football1,2023-01-29 19:30:00
+fethiyespor-vs-erzin-belediyespor,Фетхиеспор,Эрзин Беледиеспор,football1,2023-01-29 13:00:00
+amedspor-vs-sanliurfaspor,Амедспор,Санлиурфаспор,football1,2023-01-29 14:00:00
+corum-belediyespor-vs-nazilli-bld-spor,Чорум Беледиеспор,Назиллиспор,football1,2023-01-29 14:00:00
+idare-genclik-vs-duzcespor,Идаре Генчлик,Дюзчеспор,football1,2023-01-29 14:00:00
+sivas-belediye-spor-vs-somaspor,Сивас Беледиеспор,Сомаспор,football1,2023-01-29 14:00:00
+tarsus-idman-yurdu-vs-menemen-belediyespor,Тарсус Идман Юрду,Менемен Беледиеспор,football1,2023-01-29 14:00:00
+batman-petrolspor-vs-bursaspor,Бэтмен Петролспор,Бурсаспор,football1,2023-01-29 14:00:00
+erok-spor-vs-arnavutkoy-belediyesi-genclik-ve-spor,Эрокспор,Арнавуткой,football1,2023-01-29 14:00:00
+as-sariyer-vs-ankara-demirspor,Сарыер,Анкара Демирспор,football1,2023-01-29 14:00:00
+serik-belediyespor-vs-kocaelispor,Серки Беледиеспор,Коджаэлиспор,football1,2023-01-29 14:00:00
+duzyurtspor-vs-belediye-vanspor,Дузютспор,Беледие Ванспор,football1,2023-01-29 14:00:00
+adiyaman-1954-sk-vs-zonguldakspor,Адийаман,Зонгулдакспор,football1,2023-01-29 14:00:00
+pazarspor-vs-diyarbakir-fk-as-1977,Пазарспор,Диярбакырспор,football1,2023-01-29 14:00:00
+balikesirspor-vs-karacabey-birlik-spor-a-s,Баликешиспор,Караджабей Бирликспор,football1,2023-01-29 14:00:00
+utas-usakspor-a-s-vs-etimesgut-belediyespor,Усакспор,Етиместгут Беледиеспор,football1,2023-01-29 14:00:00
+tire-1922-spor-vs-kastamonuspor,Бука,Кастамонуспор,football1,2023-01-29 14:00:00
+kirklarelispor-vs-kirsehir-belediye-spor,Киркларелиспор,Кирсехир,football1,2023-01-29 14:00:00
+scu-torreense-vs-sporting-farense,Торренсе,Спортинг Фаренсе,football1,2023-01-29 14:00:00
+sc-covilha-vs-fc-porto-b,Ковилья,Порту II,football1,2023-01-29 15:45:00
+vilafranquense-vs-moreirense-fc,Вильяфранкенсе,Морейренсе,football1,2023-01-29 17:00:00
+cd-tondela-vs-cd-nacional,Тондела,Насьонал,football1,2023-01-29 17:00:00
+cd-mafra-vs-ud-oliveirense,Мафра,Оливейренсе,football1,2023-01-29 18:30:00
+cf-estrela-vs-cd-feirense,CF Estrela,Фейренсе,football1,2023-01-29 18:30:00
+leixoes-sc-vs-penafiel,Лейкшес,Пенафиел,football1,2023-01-29 21:00:00
+accra-great-olympics-vs-karela-fc,Акра Грейт Олимпикс,Карела,football1,2023-01-29 18:00:00
+real-tamale-united-vs-nsoatreman-fc,Реал Тамале Юнайтед,Nsoatreman FC,football1,2023-01-29 18:00:00
+aduana-stars-vs-accra-lions,Адуана Старз,Accra Lions,football1,2023-01-29 18:00:00
+samartex-vs-king-faisal,Самартекс,Кинг Файсал,football1,2023-01-29 18:00:00
+berekum-chelsea-vs-dreams,Берекум Челси,Дримс,football1,2023-01-29 18:00:00
+asante-kotoko-vs-kotoku-royals,Асанте Котоко,Kotoku Royals,football1,2023-01-29 21:00:00
+fbc-melgar-vs-deportivo-garcilaso,Мельгар,Deportivo Garcilaso,football1,2023-01-29 03:00:00
+academia-cantolao-vs-sport-boys-association,Академия Кантолао,Спорт Бойз,football1,2023-01-29 19:00:00
+union-comercio-vs-sporting-cristal,Унион Комерсио,Спортинг Кристал,football1,2023-01-29 21:15:00
+carlos-mannucci-vs-atletico-grau,Карлос Маннуччи,Атлетико Грау,football1,2023-01-29 23:00:00
+alianza-atletico-vs-universitario-de-deportes,Альянса Атлетико,Университарио де Депортес,football1,2023-01-29 23:30:00
+central-cordoba-sde-vs-ca-river-plate-arg,Сентраль Кордоба,Ривер Плейт,football1,2023-01-29 03:30:00
+ca-platense-vs-newell-s-old-boys,Платенсе,Ньюэллс Олд Бойз,football1,2023-01-29 23:00:00
+racing-club-vs-ca-belgrano,Расинг Авельянеда,Бельграно Кордоба,football1,2023-01-29 01:15:00
+colon-de-santa-fe-vs-atletico-lanus,Колон,Атлетико Ланус,football1,2023-01-29 01:15:00
+instituto-ac-cordoba-vs-ca-sarmiento,Институто Атлетико,Атлетико Сармиенто,football1,2023-01-29 01:15:00
+isidro-metapan-vs-ad-chalatenango,Исидро Метапан,Чалатенанго,football1,2023-01-29 04:00:00
+cd-fas-vs-once-municipal,ФАС,Онче Мунисипал,football1,2023-01-29 00:00:00
+l-a-firpo-vs-cd-atletico-marte,Луис Анхель Фирпо,Атлетико Марте,football1,2023-01-29 00:00:00
+cd-platense-municipal-zacatecoluca-vs-alianza-fc,CD Platense Municipal Zacatecoluca,Алианца,football1,2023-01-29 00:15:00
+cd-dragon-vs-jocoro-fc,Депортиво Драгон,Хокоро,football1,2023-01-29 00:30:00
+gallos-blancos-queretaro-vs-cruz-azul,Керетаро,Крус Асуль,football1,2023-01-29 03:00:00
+uanl-tigres-vs-san-luis,Тигрес,Сан-Луис,football1,2023-01-29 04:05:00
+america-de-mexico-vs-monarcas-morelia,Америка Мехико,Монаркас Морелия,football1,2023-01-29 06:05:00
+fc-juarez-vs-guadalajara-chivas,Хуарес,Гвадалахара Чивас,football1,2023-01-29 06:05:00
+deportivo-toluca-vs-leon,Депортиво Толука,Леон,football1,2023-01-29 21:00:00
+cd-mirandes-vs-cd-alaves,ФК Мирандес,Алавес,football1,2023-01-29 16:00:00
+ud-levante-vs-burgos-cf,Леванте,Бургос,football1,2023-01-29 18:15:00
+albacete-balompie-vs-cd-lugo,Альбасете,Луго,football1,2023-01-29 20:30:00
+sporting-gijon-vs-malaga-cf,Спортинг Хихон,Малага,football1,2023-01-29 20:30:00
+ud-ibiza-eivissa-vs-cartagena,Ибица Эйвисса,Картахена II,football1,2023-01-29 23:00:00
+sk-slavia-prague-vs-fk-jablonec,Славия Прага,Яблонец,football1,2023-01-29 17:00:00
+fk-mlada-boleslav-vs-zbrojovka-brno,Млада Болеслав,Зброёвка,football1,2023-01-29 17:00:00
+slovan-liberec-vs-pardubice,Слован,Пардубице,football1,2023-01-29 17:00:00
+fastav-zlin-vs-fc-banik-ostrava,Фастав Злин,Баник,football1,2023-01-29 20:00:00
+union-touarga-vs-dhj-difaa-hassani-jdidi,Унион Туарга,Дифаа Хассани,football1,2023-01-29 18:00:00
+wydad-ac-casablanca-vs-fus-fath-union-sportive-rabat,Видад Касабланка,ФЮС,football1,2023-01-29 20:15:00
+sccm-chabab-mohammedia-vs-olympique-club-of-khouribga,Sccm Chabab Mohammedia,Олимпик Хурибга,football1,2023-01-29 22:30:00
+hassania-union-sport-agadir-vs-rsb-berkane,Хассани,Беркан,football1,2023-01-29 22:30:00
+esportivo-bento-goncalves-rs-vs-brasil-de-pelotas-rs,Бениту Гонсалвеш,Брасил де Пелотас,football1,2023-01-29 22:00:00
+avenida-rs-vs-ypiranga-fc-rs,Авенида,Ипиранга,football1,2023-01-29 22:00:00
+caxias-rs-vs-clube-esportivo-aimore-rs,Каксиас,Эспортиво Аиморе,football1,2023-01-29 01:00:00
+ec-sao-jose-rs-vs-gremio-rs,Сан-Жозе,Гремио,football1,2023-01-29 02:30:00
+rsc-anderlecht-vs-royal-antwerp-fc,Андерлехт,Антверпен,football1,2023-01-29 15:30:00
+cercle-brugge-vs-kaa-gent,Серкль Брюгге,Гент,football1,2023-01-29 18:00:00
+sv-zulte-waregem-vs-club-brugge,Зульте Варегем,Брюгге,football1,2023-01-29 20:30:00
+krc-genk-vs-rfc-seraing,Генк,Серен,football1,2023-01-29 23:00:00
+ec-agua-santa-vs-aa-portuguesa-de-desportos,Агуа Санта,Португеза Деспортос,football1,2023-01-29 21:00:00
+aa-internacional-sp-vs-ituano-fc-sp,Интернасьонало Сан-Паулу,Итуано,football1,2023-01-29 22:00:00
+sao-bernardo-fc-vs-ec-sao-bento,Сан-Бернарду,Сан-Бенту,football1,2023-01-29 22:00:00
+sao-paulo-sp-vs-corinthians-sp,Сан-Паулу,Коринтианс,football1,2023-01-29 00:30:00
+adanaspor-vs-bodrum-belediyesi-bodrumspor,Аданаспор,Бодрумспор,football1,2023-01-29 13:30:00
+keciorengucu-vs-altay-izmir,Кесиоеренгючю,Алтай,football1,2023-01-29 13:30:00
+malatya-bld-spor-vs-eyupspor,Ени Малатьяспор,Эюпспор,football1,2023-01-29 16:00:00
+denizlispor-vs-manisa-buyuksehir-belediyespor,Денизлиспор,Маниса Буйуксехир Беледиеспор,football1,2023-01-29 19:00:00
+enppi-club-vs-smouha-sc,ЕНППИ,Смуха,football1,2023-01-29 15:45:00
+haras-el-hodood-vs-al-ahly-cairo,Харас Эль-Ходоод,Аль-Ахли Каир,football1,2023-01-29 18:00:00
+pyramids-fc-vs-ceramica-cleopatra,Пирамидс,Керамика Клеопатра,football1,2023-01-29 20:00:00
+el-zamalek-vs-coca-cola,Замалек,Фьючр ФК,football1,2023-01-29 20:00:00
+richards-bay-fc-vs-amazulu-fc,Ричардс-Бэй,Амазулу,football1,2023-01-29 16:30:00
+chippa-united-fc-vs-maritzburg-united-fc,Чиппа Юнайтед,Марицбург Юнайтед,football1,2023-01-29 16:30:00
+kaizer-chiefs-vs-bloemfontein-celtic-fc,Кайзер Чифс,Ройал АМ,football1,2023-01-29 18:30:00
+ts-galaxy-fc-vs-lamontville-golden-arrows-fc,ТС Гэлакси,Голден Эрроуз,football1,2023-01-29 18:30:00
+santos-de-guapiles-vs-deportivo-saprissa,Сантос Гуапилес,Депортиво Саприсса,football1,2023-01-29 04:15:00
+cs-herediano-vs-ad-guanacasteca,Эредиано,Гуанакастека,football1,2023-01-29 05:00:00
+ad-municipal-grecia-vs-ad-san-carlos,AD Municipal Grecia,Сан-Карлос,football1,2023-01-29 20:00:00
+puntarenas-fc-vs-perez-zeledon,ФК Пунтаренас,Перес Селедон,football1,2023-01-29 00:00:00
+mezokovesd-se-vs-puskas-akademia-fc,Мезекевешд,Академия Пушкаша,football1,2023-01-29 15:00:00
+ujpest-fc-vs-budapest-honved-fc,Уйпешт,Будапешт Гонвед,football1,2023-01-29 17:30:00
+kecskemeti-te-vs-videoton-fc,Кечкемет,Фехервар,football1,2023-01-29 19:30:00
+resende-rj-vs-portuguesa-rj,Резенде,Португеса,football1,2023-01-29 21:30:00
+fluminense-rj-vs-botafogo-rj,Флуминенсе,Ботафого,football1,2023-01-29 00:00:00
+boavista-rj-vs-madureira-rj,Боавишта,Мадурейра,football1,2023-01-29 02:15:00
+fc-arges-pitesti-vs-botosani,Аргес,Ботосани,football1,2023-01-29 14:30:00
+acs-sepsi-osk-sfantu-gheorghe-vs-u-craiova-1948-sa,Сепси,U Craiova 1948 SA,football1,2023-01-29 17:00:00
+fotbal-club-fcsb-vs-fc-farul-constanta,ФКСБ,Фарул,football1,2023-01-29 20:00:00
+csd-xelaju-mc-vs-deportivo-iztapa,Шелаху,Депортиво Истапа,football1,2023-01-29 05:00:00
+deportivo-malacateco-vs-csd-comunicaciones,Депортиво Малакатеко,Комуникасьонес,football1,2023-01-29 21:00:00
+huehueteco-xinabajul-vs-deportivo-guastatoya,Хуехуетеко Ксинаджул,Депортиво Гуастатоя,football1,2023-01-29 02:00:00
+ibis-vs-caruaru-city-pe,Ibis,Caruaru City PE,football1,2023-01-29 21:00:00
+belo-jardim-vs-petrolina-pe,Белу-Жардин Пернамбуку,Петролина,football1,2023-01-29 21:00:00
+santa-cruz-pe-vs-maguary-pe,Санта-Круз,Maguary PE,football1,2023-01-29 22:30:00
+balzan-youths-vs-marsaxlokk-fc,Бальцан,Марсакслокк,football1,2023-01-29 13:30:00
+hamrun-spartans-fc-vs-sirens-fc,Хамрун Спартанс ФК,Сайренс,football1,2023-01-29 17:00:00
+valletta-fc-vs-floriana-fc,Валлетта,Флориана,football1,2023-01-29 17:00:00
+huachipato-vs-cobresal,Хуачипато,Кобресал,football1,2023-01-29 18:00:00
+o-higgins-fc-vs-colo-colo,О'Хиггинс,Коло-Коло,football1,2023-01-29 00:00:00
+audax-italiano-vs-deportes-copiapo,Аудакс Италиано,Депортес Копьяпо,football1,2023-01-29 02:30:00
+fc-viktoria-1889-berlin-vs-carl-zeiss-jena,Виктория Берлин,Карл Цейсс,football1,2023-01-29 15:00:00
+greifswalder-fc-vs-berliner-ak-07,Грайфсвальдер,Берлинер,football1,2023-01-29 15:00:00
+bsg-chemie-leipzig-vs-sv-babelsberg,Хемие Лейпциг,Бабельсберг,football1,2023-01-29 18:00:00
+sadd-sc-vs-al-markhiya,Аль-Садд,Аль-Маркия,football1,2023-01-29 16:35:00
+al-sailiya-sc-vs-al-gharafa-sc,Аль-Сайлия,Аль-Гарафа,football1,2023-01-29 16:35:00
+al-ahli-doha-sc-vs-umm-salal-sc,Аль-Ахли Доха,Умм-Салал,football1,2023-01-29 18:45:00
+istanbulspor-as-vs-kayserispor,Истанбулспор,Кайсериспор,football1,2023-01-29 13:30:00
+fenerbahce-vs-kasimpasa,Фенербахче,Касымпаша,football1,2023-01-29 19:00:00
+basaksehir-fk-vs-atiker-konyaspor-1922,Истанбул Башакшехир,Коньяспор,football1,2023-01-29 19:00:00
+young-boys-bern-vs-fc-winterthur,Янг Бойз,Винтертур,football1,2023-01-29 16:15:00
+servette-geneva-fc-vs-sion,Серветт,Сион,football1,2023-01-29 18:30:00
+zurich-vs-st-gallen,Цюрих,Сент Галлен,football1,2023-01-29 18:30:00
+ac-bellinzona-vs-yverdon-sport-fc,Беллинцона,Ивердон,football1,2023-01-29 16:15:00
+fc-stade-ls-ouchy-vs-lausanne-sport,Стад Уши,Лозанна Спортс,football1,2023-01-29 18:30:00
+neuchatel-xamax-fcs-vs-fc-schaffhausen,Ксамакс,Шаффхаузен,football1,2023-01-29 18:30:00
+gks-piast-gliwice-vs-jagiellonia-bialystok,Пяст Гливице,Ягеллония,football1,2023-01-29 14:30:00
+legia-warsaw-vs-korona-kielce-sa,Легия,Корона,football1,2023-01-29 17:00:00
+ks-lechia-gdansk-vs-wisla-plock-sa,Лехия Гданьск,Висла Плоцк,football1,2023-01-29 19:30:00
+ac-omonia-nicosia-vs-pafos-fc,Омония Никосия,Пафос,football1,2023-01-29 18:00:00
+nea-salamina-famagusta-fc-vs-ael-limassol-fc,Неа Саламина,АЕЛ Лимассол,football1,2023-01-29 20:00:00
+nk-osijek-vs-hnk-gorica,Осиек,Горица,football1,2023-01-29 17:00:00
+nk-istra-1961-vs-hnk-hajduk-split,Истра,Хайдук Сплит,football1,2023-01-29 19:10:00
+fc-viktoria-cologne-vs-sv-waldhof-mannheim,Виктория Кельн,Вальдхоф,football1,2023-01-29 15:00:00
+borussia-dortmund-ii-vs-sv-wehen-wiesbaden,Боруссия Дортмунд II,Вехен,football1,2023-01-29 16:00:00
+tombense-fc-mg-vs-atletico-mineiro-mg,Томбенсе,Атлетико Минейро,football1,2023-01-29 17:00:00
+america-mineiro-mg-vs-villa-nova-mg,Америка Минейро,Вилла Нова,football1,2023-01-29 00:30:00
+livingston-fc-vs-heart-of-midlothian,Ливингстон Абердин,Харт оф Мидлотиан,football1,2023-01-29 16:30:00
+dundee-united-vs-celtic-fc,Данди Юнайтед,Селтик,football1,2023-01-29 19:00:00
+atletico-nacional-medellin-vs-rionegro-aguilas,Атлетико Насиональ Меделлин,Рионегро Агилас,football1,2023-01-29 23:10:00
+deportes-pereira-vs-millonarios-fc,Депортес Перейра,Мильонариос,football1,2023-01-29 01:20:00
+club-general-caballero-jlm-vs-resistencia-fc,Club General Caballero Jlm,Ресистенсия,football1,2023-01-29 23:00:00
+cerro-porteno-vs-sportivo-ameliano,Серро Портеньо,Спортиво Амелиано,football1,2023-01-29 01:30:00
+eintracht-norderstedt-vs-sv-werder-bremen-ii,Айнтрахт Нордерштедт,Вердер Бремен II,football1,2023-01-29 16:00:00
+vfv-hildesheim-vs-fc-teutonia-ottensen-1905,Хильдешейм,Тефтония Оттенсен,football1,2023-01-29 16:00:00
+estanciano-se-vs-lagarto-fc-se,Эстансиану,Лагарту,football1,2023-01-29 21:15:00
+ao-itabaiana-se-vs-ad-confianca-se,Итабайана,Конфианка,football1,2023-01-29 22:00:00
+olympiacos-fc-vs-ofi-crete-fc,Олимпиакос,ОФИ,football1,2023-01-29 17:00:00
+aek-athens-fc-vs-aris-thessaloniki-fc,АЕК,Арис,football1,2023-01-29 20:30:00
+cd-tapatio-vs-club-atletico-la-paz,CD Tapatio,Club Atletico La Paz,football1,2023-01-29 02:00:00
+hapoel-haifa-fc-vs-hapoel-beer-sheva-fc,Хапоэль Хайфа,Хапоэль,football1,2023-01-29 21:15:00
+kerala-blasters-fc-vs-northeast-united-fc,Керала Бластерс,Норт-Ист Юнайтед,football1,2023-01-29 17:00:00
+halide-edip-adivarspor-vs-yeni-aksarayspor,Адиварспор,Ени Аксарайспор,football1,2023-01-29 13:00:00
+erbaaspor-vs-akhisar-bld-spor,Эрбааспор,Акхисарспор,football1,2023-01-29 14:00:00
+osmaniyespor-vs-kepez-belediyespor,Османиеспор,Кепез Беледиеспор,football1,2023-01-29 14:00:00
+sapanca-genclikspor-vs-artvin-hopaspor,Sapanca Genclikspor,Хопаспор,football1,2023-01-29 14:00:00
+efeler-09-sfk-vs-buyuk-tepecikspor,Efeler 09 Sfk,Буйук Тепечикспор,football1,2023-01-29 14:00:00
+bergama-vs-nigde-anadolu-fk,Бергама,Нигде Анадолу,football1,2023-01-29 14:00:00
+siirt-il-ozel-idaresi-spor-vs-fatsa-belediyespor,Идаресипор,Фатса,football1,2023-01-29 14:00:00
+bursa-yildirim-spor-vs-arguvan-belediye-spor,Bursa Yildirim Spor,Arguvan Belediye Spor,football1,2023-01-29 14:00:00
+adliyespor-vs-mus-1984-musspor,Чанкая,Mus 1984 Musspor,football1,2023-01-29 14:00:00
+anagennisi-karditsas-1904-vs-fc-veria,Анагеннис Кардица,Верия,football1,2023-01-29 15:45:00
+apollon-pontou-vs-larissa,Аполлон 1926,Ларисса,football1,2023-01-29 15:45:00
+apollon-larissa-fc-vs-almopos-arideas,Аполлон Ларисса,Алмопос Аридеас,football1,2023-01-29 15:45:00
+niki-volou-vs-po-triglias,Ники Волу,Триглиас,football1,2023-01-29 15:45:00
+diagoras-fc-vs-makedonikos-fc,Диагорас,Македоникос,football1,2023-01-29 15:45:00
+irodotos-vs-panachaiki-1891-fc,Иродотос,Паначаики,football1,2023-01-29 15:45:00
+ae-kifisias-vs-episkopi-fc,Кифисиас,Эпископи,football1,2023-01-29 15:45:00
+o-f-ierapetras-vs-kalamata-fc,Иерапетрас,Каламата,football1,2023-01-29 15:45:00
+proodeftiki-fc-vs-gs-apollon-smyrnis,Продефтики,Аполлон Смирнис,football1,2023-01-29 15:45:00
+amasyaspor-vs-s-b-elazigspor,Амасьяспор,Элазигспор,football1,2023-01-29 13:00:00
+yeni-orduspor-kulubu-vs-edirnespor,Ордуспор,Эдирнеспор,football1,2023-01-29 14:00:00
+agrispor-vs-kutahyaspor,Агриспор,Кутахиаспор,football1,2023-01-29 14:00:00
+eskisehirspor-vs-sile-yildizspor,Эскишехирспор,Шиле Йилдизспор,football1,2023-01-29 14:00:00
+1954-kelkit-belediyespor-vs-derince-belediyespor,1954 Kelkit Belediyespor,Дериндже Беледиеспор,football1,2023-01-29 14:00:00
+sanliurfa-karakopru-belediye-spor-vs-yeni-altindag-belediyespor,Санлиурфа Каракопру Беледиеспор,Алтындаг Беледиеспор,football1,2023-01-29 14:00:00
+yomraspor-vs-nevsehir-belediye-spor,Йомраспор,Невшехирспор,football1,2023-01-29 14:00:00
+kahramanmarasspor-as-vs-bayrampasa,Кахраманмарасспор,Байрампаша,football1,2023-01-29 14:00:00
+ergene-velimese-spor-vs-ayvalikgucu,Эргене Велимесе,Айваликгучу,football1,2023-01-29 14:00:00
+elaziz-belediyespor-vs-karaman-belediyespor,Эльазиз,Караман Беледиеспор,football1,2023-01-29 14:00:00
+eynesil-belediyespor-vs-turk-metal-kirikkale,Eynesil Belediyespor,Тюрк Метал Кириккале,football1,2023-01-29 14:00:00
+darica-g-birligi-vs-ofspor,Дарича Бирлиги,Офспор,football1,2023-01-29 14:00:00
+turgutluspor-vs-76-igdir-belediyespor,Тургутлуспор,76 Igdir Belediyespor,football1,2023-01-29 14:00:00
+khon-kaen-united-fc-vs-sukhothai-fc,Khon Kaen United FC,Сухотай,football1,2023-01-29 14:00:00
+lamphun-warrior-vs-ratchaburi-mitr-phol-fc,Lamphun Warrior,Ратчабури,football1,2023-01-29 14:00:00
+buriram-united-fc-vs-chonburi-fc,Бурирам Юнайтед,Чонбури,football1,2023-01-29 14:30:00
+police-tero-fc-vs-bangkok-glass-fc,Полис Теро,Патум Юнайтед,football1,2023-01-29 15:00:00
+lierse-kempenzonen-vs-rwd-molenbeek-47,Остервейк,Моленбек,football1,2023-01-29 18:00:00
+sl16-football-campus-vs-waasland-beveren,Sl16 Football Campus,Васланд-Беверен,football1,2023-01-29 22:00:00
+sreenidi-deccan-fc-vs-neroca-fc,Sreenidi Deccan FC,Нерока,football1,2023-01-29 11:30:00
+gokulam-kerala-fc-vs-kenkre-fc,Гокулам Керала,Kenkre FC,football1,2023-01-29 14:00:00
+persija-jakarta-vs-tira-persikabo,Персия Джакарта,Тира Персикабо,football1,2023-01-29 11:30:00
+madura-united-vs-persebaya-surabaya,Мадура Юнайтед,Персебая Сурабая,football1,2023-01-29 12:00:00
+gallos-blancos-queretaro-vs-colorado-rapids,Керетаро,Колорадо Рапидс,football1,2023-01-29 22:00:00
+treze-fc-pb-vs-cs-paraibano-pb,Трезе,Параибану,football1,2023-01-29 22:00:00
+barnsley-vs-sheffield-wednesday,Барнсли,Шеффилд Уэнсдей,football1,2023-01-29 16:00:00
+operario-ac-ms-vs-nautico-fc-ms,Операрио,Nautico FC MS,football1,2023-01-29 21:00:00
+ha-noi-fc-vs-hai-phong-fc,Ханой,Хайфон,football1,2023-01-29 13:00:00
+villarreal-cf-vs-rayo-vallecano,Вильярреал,Райо Вальекано,football1,2023-01-30 23:00:00
+udinese-calcio-vs-hellas-verona,Удинезе,Верона,football1,2023-01-30 22:45:00
+derby-county-vs-west-ham-united,Дерби Каунти,Вест Хэм,football1,2023-01-30 22:45:00
+vitoria-guimaraes-vs-gd-chaves,Витория Гимараэш,Шавиш,football1,2023-01-30 23:15:00
+club-a-bizertin-vs-cs-sfaxien,Бизертен,Сфаксьен,football1,2023-01-30 16:00:00
+es-sahel-vs-esperance-tunis,Этуаль дю Сахель,Эсперанс Тунис,football1,2023-01-30 16:00:00
+cs-chebba-vs-stade-tunisien,Чебба,Стад Тунис,football1,2023-01-30 16:00:00
+us-tataouine-vs-es-hammam-sousse,Татавин,Хаммам Сус,football1,2023-01-30 16:00:00
+africain-vs-eo-sidi-bouzid,Клуб Африкен,Сиди Бузид,football1,2023-01-30 16:00:00
+olympique-de-beja-vs-us-ben-guerdane,Олимпик Беджа,Унион Бен-Гардан,football1,2023-01-30 16:00:00
+us-monastir-vs-as-slimane,Монастир,Симане,football1,2023-01-30 16:00:00
+es-metlaoui-vs-rejiche,Метлауи,Реджиче,football1,2023-01-30 16:00:00
+arema-indonesia-isl-vs-bali-united-pusam,Арема,Бали Юнайтед,football1,2023-01-30 12:00:00
+pusamania-borneo-vs-persik-kediri,Пусамания Борнео,Персик Кедири,football1,2023-01-30 14:15:00
+psm-makassar-vs-rans-cilegon-fc,ПСМ,Rans Cilegon FC,football1,2023-01-30 14:30:00
+psm-makassar-vs-barito-putera,ПСМ,Барито Путера,football1,2023-01-30 16:30:00
+boca-juniors-vs-atletico-tucuman,Бока Хуниорс,Атлетико Тукуман,football1,2023-01-30 03:30:00
+barracas-central-vs-godoy-cruz-a-t,Барракас Сентраль,Годой Крус,football1,2023-01-30 23:00:00
+ca-banfield-vs-union-de-santa-fe,Банфилд,Унион Санта-Фе,football1,2023-01-30 02:00:00
+velez-sarsfield-vs-gimnasia-y-esgrima,Велес Сарсфилд,Химнасия и Эсгрима Ла Плата,football1,2023-01-30 02:00:00
+psv-eindhoven-vs-willem-ii-tilburg,Йонг ПСВ,Виллем II,football1,2023-01-30 22:00:00
+utrecht-vs-de-graafschap,Утрехт,Де Графсхап,football1,2023-01-30 22:00:00
+roda-jc-kerkrade-vs-pec-zwolle,Рода,Зволле,football1,2023-01-30 22:00:00
+al-wakra-sc-vs-al-duhail-sc,Аль-Вакра,Аль-Духаиль,football1,2023-01-30 16:35:00
+al-shamal-vs-al-rayyan-sc,Аль-Шамаль,Аль-Райян,football1,2023-01-30 16:35:00
+qatar-sc-vs-al-arabi-doha-sc,Катар,Аль-Араби Доха,football1,2023-01-30 18:45:00
+paok-fc-vs-levadiakos-fc,ПАОК,Левадиакос,football1,2023-01-30 19:00:00
+lamia-vs-ionikos-nikea-fc,Ламия,Ионикос,football1,2023-01-30 20:30:00
+asteras-tripolis-vs-panathinaikos-athens,Астерас,Панатинаикос,football1,2023-01-30 22:00:00
+botafogo-fc-pb-vs-auto-esporte-clube-pb,Ботафого Параиба,Ауто Эспорте,football1,2023-01-30 01:00:00
+sao-paulo-crystal-fc-pb-vs-se-queimadense-pb,Sao Paulo Crystal FC PB,SE Queimadense PB,football1,2023-01-30 01:30:00
+club-atletico-junior-vs-independiente-medellin,Атлетико Хуниор,Индепенденте Меделлин,football1,2023-01-30 03:30:00
+alianza-petrolera-vs-deportivo-pasto,Алианца Петролера,Депортиво Пасто,football1,2023-01-30 02:00:00
+liga-deportiva-alajuelense-vs-sporting-san-jose,Алахуэленсе,Спортинг Сан-Хосе,football1,2023-01-30 03:00:00
+guadalupe-fc-vs-cs-cartagines,Гуадалупе,Картахинес,football1,2023-01-30 03:00:00
+pao-rouf-vs-egaleo-athens,Пао Руф,Эгалео,football1,2023-01-30 15:45:00
+kallithea-fc-athen-vs-gs-ilioupoli,Каллитеа,Илиуполи,football1,2023-01-30 16:15:00
+enosis-neon-paralimni-fc-vs-aris-limassol-fc,Эносис,Арис Лимассол,football1,2023-01-30 20:00:00
+churchill-brothers-sc-vs-sudeva-delhi-fc,Черчилль Бразерс,Sudeva Delhi FC,football1,2023-01-30 16:30:00
+1860-munich-vs-sg-dynamo-dresden,Мюнхен 1860,Динамо Дрезден,football1,2023-01-30 21:00:00
+novo-hamburgo-rs-vs-juventude-rs,Ново Гамбургу,Жувентуде,football1,2023-01-30 02:00:00
+vasco-da-gama-rj-vs-volta-redonda-rj,Васко Да Гама,Вольта Редонда,football1,2023-01-30 02:00:00
+fc-voluntari-vs-cfr-cluj,Волунтари,ЧФР Клуж,football1,2023-01-30 21:00:00
+samsunspor-vs-buyuksehir-belediye-erzurumspor,Самсунспор,Эрзурумспор,football1,2023-01-30 20:00:00
+national-bank-vs-ghazl-el-mahallah,Нейшнл Банк,Газль Эль-Махалла,football1,2023-01-30 18:00:00
+bnei-sakhnin-fc-vs-hapoel-katamon-jerusalem-fc,Бней Сахнин,Хапоэль Катамон Йерусалим,football1,2023-01-30 21:00:00
+fk-sumgayit-vs-turan-tovuz,Сумгаит,Туран Товуз,football1,2023-01-30 17:00:00
+olimpia-asuncion-vs-club-sportivo-luqueno,Олимпия Асунсьон,Спортиво Лукеньо,football1,2023-01-30 01:30:00
+cf-pachuca-vs-necaxa,Пачука,Некакса,football1,2023-01-30 04:00:00
+real-zaragoza-vs-sd-ponferradina,Реал Сарагоса,Понферрадина,football1,2023-01-30 23:00:00
+cf-os-belenenses-vs-cd-trofense,Белененсиш,Трофенсе,football1,2023-01-30 21:00:00
+usd-audace-cerignola-vs-ss-monopoli-1966,Аудаче Чериньола,Монополи,football1,2023-01-30 22:30:00
+liverpool-m-vs-nacional-montevideo,Ливерпуль Монтевидео,Насиональ Уру,football1,2023-01-30 03:00:00
+ks-cracovia-vs-ks-gornik-zabrze,Краковия,Гурник,football1,2023-01-30 21:00:00
+louisville-city-fc-vs-nashville-sc,Луизвилль Сити,Нэшвилл,football1,2023-01-30 22:00:00
+nautico-pe-vs-porto-pe,Наутико,Порту Пернамбуку,football1,2023-01-30 02:00:00
+cs-sergipe-se-vs-america-se,Сержипе,Америка,football1,2023-01-30 02:15:00
+ottawa-senators-vs-montreal-canadiens,Оттава,Монреаль,hockey1,2023-01-29 03:00:00
+winnipeg-jets-vs-philadelphia-flyers,Виннипег,Филадельфия,hockey1,2023-01-29 03:00:00
+pittsburgh-penguins-vs-san-jose-sharks,Питтсбург,Сан-Хосе,hockey1,2023-01-29 03:00:00
+tampa-bay-lightning-vs-los-angeles-kings,Тампа-Бэй,Лос-Анджелес,hockey1,2023-01-29 03:00:00
+new-york-islanders-vs-vegas-golden-knights,Айлендерс,Вегас,hockey1,2023-01-29 03:30:00
+minnesota-wild-vs-buffalo-sabres,Миннесота,Баффало,hockey1,2023-01-29 05:00:00
+edmonton-oilers-vs-chicago-blackhawks,Эдмонтон,Чикаго,hockey1,2023-01-29 06:00:00
+seattle-kraken-vs-columbus-blue-jackets,Сиэтл,Коламбус,hockey1,2023-01-29 06:00:00
+anaheim-ducks-vs-arizona-coyotes,Анахайм,Аризона,hockey1,2023-01-29 06:30:00
+toronto-maple-leafs-vs-washington-capitals,Торонто,Вашингтон,hockey1,2023-01-29 01:00:00
+carolina-hurricanes-vs-boston-bruins,Каролина,Бостон,hockey1,2023-01-29 01:00:00
+kingston-frontenacs-vs-london-knights,Кингстон Фронтенакс,Лондон Найтс,hockey1,2023-01-29 03:00:00
+niagara-icedogs-vs-north-bay-battalion,Ниагара АйсДогс,Бремптон Баттальон,hockey1,2023-01-29 03:00:00
+flint-firebirds-vs-barrie-colts,Флинт Файербёрдс,Барри Кольтс,hockey1,2023-01-29 03:00:00
+erie-otters-vs-kitchener-rangers,Эри Оттерс,Китченер Рейнджерс,hockey1,2023-01-29 03:00:00
+rouyn-noranda-huskies-vs-baie-comeau,Роюн-Норанда Хаскис,Байе-Комо Драккар,hockey1,2023-01-29 03:00:00
+saginaw-spirit-vs-sarnia-sting,Саджиноу Спирит,Сарния Стинг,hockey1,2023-01-29 03:05:00
+owen-sound-attack-vs-sudbury-wolves,Оуэн Саунд Аттак,Садбери Вулвс,hockey1,2023-01-29 03:30:00
+moose-jaw-warriors-vs-medicine-hat-tigers,Мус Джо Уорриорс,Медисин Хат Тайгерс,hockey1,2023-01-29 04:00:00
+prince-george-cougars-vs-prince-albert-raiders,Принц Джордж Кугарс,Принц Альберт Рэйдерс,hockey1,2023-01-29 05:00:00
+red-deer-rebels-vs-winnipeg-ice,Ред Дир Ребелс,Кутеней Айс,hockey1,2023-01-29 05:00:00
+victoria-royals-vs-kamloops-blazers,Виктория Роялс,Камлупс Блейзерс,hockey1,2023-01-29 05:05:00
+seattle-thunderbirds-vs-portland-winterhawks,Сиэттл Тундербердс,Портленд Уинтерхокс,hockey1,2023-01-29 05:05:00
+everett-silvertips-vs-swift-current-broncos,Эверетт Сильвертипс,Свифт Керрент Бронкос,hockey1,2023-01-29 05:05:00
+tri-city-americans-vs-spokane-chiefs,Трай-Сити Американс,Спокан Чифс,hockey1,2023-01-29 05:05:00
+kelowna-rockets-vs-vancouver-giants,Келовна Рокетс,Ванкувер Джайентс,hockey1,2023-01-29 06:05:00
+halifax-mooseheads-vs-acadie-bathurst-titan,Галифакс Мусехедс,Акади-Батурст Титан,hockey1,2023-01-29 21:00:00
+mississauga-steelheads-vs-ottawa-67-s,Миссиссога Стилхедс,Оттава 67's,hockey1,2023-01-29 22:00:00
+guelph-storm-vs-sudbury-wolves,Гелф Шторм,Садбери Вулвс,hockey1,2023-01-29 22:00:00
+erie-otters-vs-niagara-icedogs,Эри Оттерс,Ниагара АйсДогс,hockey1,2023-01-29 22:00:00
+peterborough-petes-vs-hamilton-bulldogs,Петерборо Питс,Хэмилтон Бульдогс,hockey1,2023-01-29 22:05:00
+sault-ste-marie-greyhounds-vs-windsor-spitfires,Су-Сен-Мари Грейхаундз,Виндзор Спитфайрз,hockey1,2023-01-29 22:07:00
+moncton-wildcats-vs-cape-breton-screaming-eagles,Монктон Уайлдкатс,Кейп Бретон Скриминг Иглз,hockey1,2023-01-29 23:00:00
+val-d-or-foreurs-vs-baie-comeau,Валь-д'Ор Форёрс,Байе-Комо Драккар,hockey1,2023-01-29 23:00:00
+quebec-remparts-vs-charlottetown-islanders,Квебек Ремпартс,Шарлоттаун Айлендерс,hockey1,2023-01-29 23:00:00
+drummondville-voltigeurs-vs-sherbrooke-phoenix,Драммондвиль Вольтигерс,Шербрук Феникс,hockey1,2023-01-29 00:00:00
+chicoutimi-sagueneens-vs-rimouski-oceanic,Шикутими Садженинс,Римуски Ошеаник,hockey1,2023-01-29 00:00:00
+regina-pats-vs-medicine-hat-tigers,Реджина Пэтс,Медисин Хат Тайгерс,hockey1,2023-01-29 01:00:00
+saginaw-spirit-vs-barrie-colts,Саджиноу Спирит,Барри Кольтс,hockey1,2023-01-29 01:30:00
+edmonton-oil-kings-vs-lethbridge-hurricanes,Эдмонтон Ойл Кингс,Летбридж Урикейнс,hockey1,2023-01-29 02:00:00
+calgary-hitmen-vs-winnipeg-ice,Калгари Хитмен,Кутеней Айс,hockey1,2023-01-29 02:00:00
+oshawa-generals-vs-north-bay-battalion,Ошава Дженералз,Бремптон Баттальон,hockey1,2023-01-29 02:05:00
+cleveland-monsters-vs-laval-rocket,Cleveland Monsters,Laval Rocket,hockey1,2023-01-29 03:00:00
+hartford-wolf-pack-vs-syracuse-crunch,Hartford Wolf Pack,Syracuse Crunch,hockey1,2023-01-29 03:00:00
+utica-comets-vs-providence-bruins,Utica Comets,Providence Bruins,hockey1,2023-01-29 03:00:00
+iowa-wild-vs-coachella-valley-firebirds,Iowa Wild,Coachella Valley Firebirds,hockey1,2023-01-29 03:00:00
+milwaukee-admirals-vs-grand-rapids-griffins,Milwaukee Admirals,Grand Rapids Griffins,hockey1,2023-01-29 03:00:00
+springfield-thunderbirds-vs-belleville-senators,Springfield Thunderbirds,Belleville Senators,hockey1,2023-01-29 03:05:00
+lehigh-valley-phantoms-vs-hershey-bears,Lehigh Valley Phantoms,Hershey Bears,hockey1,2023-01-29 03:05:00
+texas-stars-vs-colorado-eagles,Texas Stars,Colorado Eagles,hockey1,2023-01-29 04:00:00
+chicago-wolves-vs-rockford-icehogs,Chicago Wolves,Rockford IceHogs,hockey1,2023-01-29 04:00:00
+tucson-roadrunners-vs-abbotsford-canucks,Tucson Roadrunners,Abbotsford Canucks,hockey1,2023-01-29 05:00:00
+san-diego-gulls-vs-ontario-reign,San Diego Gulls,Ontario Reign,hockey1,2023-01-29 06:00:00
+henderson-silver-knights-vs-stockton-heat,Henderson Silver Knights,Stockton Heat,hockey1,2023-01-29 06:00:00
+bakersfield-condors-vs-san-jose-barracuda,Bakersfield Condors,San Jose Barracuda,hockey1,2023-01-29 06:00:00
+manitoba-moose-vs-toronto-marlies,Manitoba Moose,Toronto Marlies,hockey1,2023-01-29 23:00:00
+hershey-bears-vs-bridgeport-islanders,Hershey Bears,Bridgeport Islanders,hockey1,2023-01-29 23:00:00
+providence-bruins-vs-syracuse-crunch,Providence Bruins,Syracuse Crunch,hockey1,2023-01-29 23:05:00
+chicago-wolves-vs-grand-rapids-griffins,Chicago Wolves,Grand Rapids Griffins,hockey1,2023-01-29 00:00:00
+tucson-roadrunners-vs-abbotsford-canucks,Tucson Roadrunners,Abbotsford Canucks,hockey1,2023-01-29 02:00:00
+enkoepings-sk-hk-vs-tegs,Enkoepings SK HK,ТГЭ,hockey1,2023-01-29 17:00:00
+sundsvall-vs-vaesby-ik-hk,Сундсвалль,Vaesby IK HK,hockey1,2023-01-29 18:00:00
+stroemsbro-if-vs-bodens,Stroemsbro IF,Боденс,hockey1,2023-01-29 18:00:00
+hudiksvalls-hc-vs-kiruna-if,Hudiksvalls HC,Kiruna IF,hockey1,2023-01-29 18:00:00
+piteaa-vs-lindloevens-if,Питэa,Lindloevens IF,hockey1,2023-01-29 18:00:00
+vaennaes-hc-vs-kalix-uhc,Vaennaes HC,Kalix UHC,hockey1,2023-01-29 18:00:00
+surahammars-if-vs-oernskoeldsvik-hf,Surahammars IF,Oernskoeldsvik HF,hockey1,2023-01-29 18:00:00
+mariestad-bois-hc-vs-troja-ljungby,Mapиэcтaд Бoиc Хоккей,Трой,hockey1,2023-01-29 18:00:00
+tranaas-aif-vs-kalmar-hc,Tranaas AIF,Kalmar HC,hockey1,2023-01-29 18:00:00
+skoevde-vs-halmstad,Скевде,Хальмстад,hockey1,2023-01-29 18:00:00
+hc-dalen-vs-visby-roma-hk,HC Dalen,Visby,hockey1,2023-01-29 18:00:00
+karlskrona-hk-vs-nybro,Карлскруна,Нйбpo,hockey1,2023-01-29 18:00:00
+vimmerby-hc-vs-huddinge,Vimmerby HC,Xюддингэ,hockey1,2023-01-29 18:00:00
+segeltorps-vs-tyringe-hockey,Segeltorps,Tyringe Hockey,hockey1,2023-01-29 18:00:00
+koeping-hc-vs-eskilstuna-linden-hockey,Koeping HC,Eskilstuna Linden Hockey,hockey1,2023-01-29 18:00:00
+forshaga-vs-boraas,Forshaga,Boraas,hockey1,2023-01-29 18:00:00
+barys-nur-sultan-vs-hc-dynamo-moscow,Барыс,Динамо Москва,hockey1,2023-01-29 14:00:00
+salavat-yulaev-ufa-vs-neftekhimik-nizhnekamsk,Салават Юлаев,Нефтехимик,hockey1,2023-01-29 14:30:00
+ak-bars-kazan-vs-traktor,Ак Барс,Трактор,hockey1,2023-01-29 17:00:00
+lokomotiv-yaroslavl-vs-avtomobilist-yekaterinburg,Локомотив,Автомобилист,hockey1,2023-01-29 17:00:00
+vityaz-vs-metallurg-magnitogorsk,Витязь,Металлург Мг,hockey1,2023-01-29 17:00:00
+cska-moscow-vs-severstal-cherepovets,ЦСКА,Северсталь,hockey1,2023-01-29 17:00:00
+litvinov-vs-motor-ceske-budejovice,Литвинов,Мотор,hockey1,2023-01-29 17:30:00
+mountfield-hk-vs-hc-kladno,Мантфилд ХК,Кладно,hockey1,2023-01-29 18:00:00
+kometa-vs-liberec,Комета,Либерец,hockey1,2023-01-29 19:00:00
+olomouc-vs-karlovy-vary,Оломоуц,К.Вары,hockey1,2023-01-29 19:00:00
+plzen-vs-sparta,Пльзень,Спарта Пр,hockey1,2023-01-29 19:20:00
+mlada-boleslav-vs-dynamo-pardubice,М.Болеслав,Пардубице,hockey1,2023-01-29 19:30:00
+nova-ves-vs-banska-bystrica,Нова Вес,Б. Быстрица,hockey1,2023-01-29 18:00:00
+nove-zamky-vs-nitra,Нова Замки,Нитра,hockey1,2023-01-29 18:00:00
+liptovsky-mikulas-vs-presov,Микулаш,Presov,hockey1,2023-01-29 18:30:00
+slovan-vs-poprad,Слован,Попрад,hockey1,2023-01-29 19:00:00
+kosice-vs-michalovce,Кошице,Михаловце,hockey1,2023-01-29 20:30:00
+lada-togliatti-vs-bars-kazan,Лада,Барс Казань,hockey1,2023-01-29 16:00:00
+sc-rapperswil-jona-lakers-vs-hc-lugano,Рапперсвил,Лугано,hockey1,2023-01-29 22:00:00
+ehc-red-bull-muenchen-vs-duesseldorfer-eg,Мюнхен,Дюссельдорф,hockey1,2023-01-29 16:00:00
+schwenninger-wild-wings-vs-bremerhaven,Швеннинген,Бремерхафен,hockey1,2023-01-29 16:00:00
+iserlohn-roosters-vs-eisbaeren-berlin,Изерлон,Берлин,hockey1,2023-01-29 17:15:00
+bietigheim-steelers-vs-adler-mannheim,Биссинген,Мангейм,hockey1,2023-01-29 18:30:00
+koelner-haie-vs-nurnberg-ice-tigers,Кельн,Айс Тайгерс,hockey1,2023-01-29 18:30:00
+augsburger-panther-vs-erc-ingolstadt,Аугсбург,Ингольштадт,hockey1,2023-01-29 18:30:00
+loewen-frankfurt-vs-straubing-tigers,Франкфурт,Штраубинг,hockey1,2023-01-29 21:00:00
+etc-crimmitschau-vs-esv-kaufbeuren,Кpиммитчaю,Кауфбойрен,hockey1,2023-01-29 19:00:00
+ehc-bayreuth-die-tigers-vs-ec-bad-nauheim,Байрет,Бад-Наухайм,hockey1,2023-01-29 19:00:00
+heilbronner-falken-vs-evl-landshut,Хайльброннер,Ландсхут Каннибалс,hockey1,2023-01-29 20:30:00
+ehc-freiburg-vs-lausitzer-fuechse,Фрайбург,Лужицкие,hockey1,2023-01-29 20:30:00
+ev-ravensburg-vs-eisbaeren-regensburg,Равенсбург,Регенсбург,hockey1,2023-01-29 20:30:00
+kassel-huskies-vs-dresdner-eisloewen,Кассель,Дрезден,hockey1,2023-01-29 20:30:00
+krefeld-pinguine-vs-selber-woelfe,Крефельд,Selber Woelfe,hockey1,2023-01-29 21:00:00
+tayfun-vs-ska-varyagi,Тайфун,SKA-Varyagi,hockey1,2023-01-29 06:00:00
+avtomobilist-yekaterinburg-vs-krasnoyarskie-rysi,Авто Екатеринбург,Krasnoyarskie Rysi,hockey1,2023-01-29 11:00:00
+kapitan-stupino-vs-mhc-dynamo,Ступино,MHC Dynamo,hockey1,2023-01-29 13:00:00
+sputnik-almetyevsk-vs-lada-togliatti-juniors,Спутник Альметьевск,Ладья Тольятти,hockey1,2023-01-29 13:00:00
+dinamo-shinnik-vs-loko,Динамо Шинник,Локо,hockey1,2023-01-29 14:30:00
+avtomobilist-yekaterinburg-vs-krasnoyarskie-rysi,Авто Екатеринбург,Krasnoyarskie Rysi,hockey1,2023-01-29 17:00:00
+hk-olimpija-vs-innsbruck,Олимпия,Инсбрук,hockey1,2023-01-29 19:30:00
+graz-99ers-vs-bolzano,Грац,Больцано,hockey1,2023-01-29 19:30:00
+vienna-capitals-vs-salzburg,Вена,Зальцбург,hockey1,2023-01-29 19:30:00
+black-wings-linz-vs-val-pusteria,Линц,Пустертaл,hockey1,2023-01-29 19:30:00
+klagenfurter-ac-vs-ec-vsv,Клагенфурт,Пaсют ВCB,hockey1,2023-01-29 20:00:00
+almtuna-vs-bjoerkloeven,Альмтуна,Бьорк,hockey1,2023-01-29 17:00:00
+tingsryd-vs-vaesterviks-ik,тингcгйд,Вастервик,hockey1,2023-01-29 17:00:00
+kristianstad-ik-vs-hc-vita-haesten,Kristianstad IK,Вита Хестен,hockey1,2023-01-29 17:00:00
+modo-vs-vaesteraas,Модо,Вестерос,hockey1,2023-01-29 20:00:00
+oestersunds-ik-vs-mora,Oestersunds IK,Мора,hockey1,2023-01-29 20:00:00
+gks-tychy-vs-hc-gks-katowice,ГКС Тыхы,ГКС Катовице,hockey1,2023-01-29 19:00:00
+zaglebie-sosnowiec-vs-energa-torun,Заглеб Сасновиц,Енерга Торун,hockey1,2023-01-29 19:00:00
+jkh-gks-jastrzebie-vs-oswiecim,ГКС Ястжембе,Униа Освиеким,hockey1,2023-01-29 19:00:00
+ciarko-kh-58-sanok-vs-mmks-podhale-nowy-targ,ХК Чарко Санок,Подхале Новы-Тарг,hockey1,2023-01-29 20:00:00
+herning-blue-fox-vs-herlev-eagles,Хернинг,Херлев Иглс,hockey1,2023-01-29 17:00:00
+esbjerg-energy-vs-odense-bulldogs,Эсбьерг,Оденсе,hockey1,2023-01-29 17:00:00
+soenderjyske-vs-frederikshavn-white-hawks,Сендерийск,Фредериксхавн,hockey1,2023-01-29 19:00:00
+ringerike-vs-gruener,Pингэpикэ,Гpюнэр,hockey1,2023-01-29 19:00:00
+vaalerenga-vs-stjernen,Валеренга,Стьернен,hockey1,2023-01-29 19:00:00
+csikszereda-vs-fehervari-titanok,Чиксереда,Fehervari Titanok,hockey1,2023-01-29 19:30:00
+omskie-krylia-vs-hc-rostov,Omskie Krylia,HC Rostov,hockey1,2023-01-30 10:00:00
+metallurg-novokuznetsk-vs-buran-voronezh,Металлург Нк,Буран Воронеж,hockey1,2023-01-30 15:30:00
+ska-neva-vs-gornyak-uchaly,СКА-Карелия,Горняк Учалы,hockey1,2023-01-30 17:00:00
+izhstal-izhevsk-vs-dizel-penza,Ижсталь,Дизель,hockey1,2023-01-30 17:30:00
+dynamo-st-petersburg-vs-zauralye-kurgan,Динамо Санкт-Петербург,Зауралье,hockey1,2023-01-30 18:30:00
+neftyanik-almetyevsk-vs-hc-tambov,Нефтяник Ал,HC Tambov,hockey1,2023-01-30 18:30:00
+avtomobilist-yekaterinburg-vs-krasnoyarskie-rysi,Авто Екатеринбург,Krasnoyarskie Rysi,hockey1,2023-01-30 16:30:00
+mamonty-yugry-vs-tolpar,Мамонты Югры,Толпар,hockey1,2023-01-30 17:00:00
+irbis-kazan-vs-sarmaty,Ирбис Казань,Сарматы,hockey1,2023-01-30 17:00:00
+mikhaylov-academy-vs-amurskie-tigry,Mikhaylov Academy,Амурские Тигры,hockey1,2023-01-30 19:00:00
+atlanty-vs-mhc-spartak,Атланты,МХК Спартак,hockey1,2023-01-30 19:00:00
+amur-khabarovsk-vs-sibir-novosibirsk,Амур,Сибирь,hockey1,2023-01-30 12:00:00
+admiral-vladivostok-vs-avangard-omsk,Адмирал,Авангард,hockey1,2023-01-30 12:30:00
+dinamo-minsk-vs-hc-red-star-kunlun,Динамо Минск,Куньлунь Ред Стар,hockey1,2023-01-30 19:10:00
+ska-st-petersburg-vs-torpedo,СКА,Торпедо НН,hockey1,2023-01-30 19:30:00
+sokolov-vs-frydek-mistek,Соколов,Фридек-Мистек,hockey1,2023-01-30 19:00:00
+jestrabi-prostejov-vs-vrchlabi,Простежов,Bpcлaби,hockey1,2023-01-30 19:00:00
+horacka-slavia-trebic-vs-kolin,Горакa Славия,Kolin,hockey1,2023-01-30 19:30:00
+dukla-jihlava-vs-draci-pars-sumperk,Йиглава,Шумперк,hockey1,2023-01-30 19:30:00
+vsetin-vs-zlin,Всетин,Злин,hockey1,2023-01-30 19:30:00
+hc-stadion-litomerice-vs-slavia,ХК Стадион Литомерице,Славия Пр,hockey1,2023-01-30 19:30:00
+hc-zubr-prerov-vs-hc-poruba,Преров,HC Poruba,hockey1,2023-01-30 20:00:00
+jestrabi-prostejov-vs-dynamo-pardubice-b,Простежов,Dynamo Pardubice B,hockey1,2023-01-30 20:00:00
+everett-silvertips-vs-tri-city-americans,Эверетт Сильвертипс,Трай-Сити Американс,hockey1,2023-01-30 03:05:00
+portland-winterhawks-vs-spokane-chiefs,Портленд Уинтерхокс,Спокан Чифс,hockey1,2023-01-30 04:00:00
+ontario-reign-vs-stockton-heat,Ontario Reign,Stockton Heat,hockey1,2023-01-30 04:00:00
+gyergyoi-hk-vs-fehervari-titanok,Gyergyoi HK,Fehervari Titanok,hockey1,2023-01-30 19:30:00
+orlando-magic-vs-chicago-bulls,Орландо Мэджик,Чикаго Буллз,basketball1,2023-01-29 03:00:00
+detroit-pistons-vs-houston-rockets,Детройт Пистонс,Хьюстон Рокетс,basketball1,2023-01-29 03:00:00
+atlanta-hawks-vs-los-angeles-clippers,Атланта Хокс,Лос-Анджелес Клипперс,basketball1,2023-01-29 03:30:00
+san-antonio-spurs-vs-phoenix-suns,Сан-Антонио Сперс,Финикс Санз,basketball1,2023-01-29 04:00:00
+new-orleans-pelicans-vs-washington-wizards,Нью-Орлеан Пеликанс,Вашингтон Уизардс,basketball1,2023-01-29 04:00:00
+minnesota-timberwolves-vs-sacramento-kings,Миннесота Тимбервулвс,Сакраменто Кингз,basketball1,2023-01-29 04:00:00
+boston-celtics-vs-los-angeles-lakers,Бостон Селтикс,Лейкерс,basketball1,2023-01-29 04:30:00
+utah-jazz-vs-dallas-mavericks,Юта Джаз,Даллас Маверикс,basketball1,2023-01-29 05:00:00
+portland-trail-blazers-vs-toronto-raptors,Портленд Трэйл Блэйзерс,Торонто Рэпторс,basketball1,2023-01-29 06:00:00
+cska-moscow-vs-mba-moscow,ЦСКА,МБА Москва,basketball1,2023-01-29 15:00:00
+avtodor-saratov-vs-bc-samara,Автодор,БК Самара,basketball1,2023-01-29 15:00:00
+zenit-st-petersburg-vs-bc-lokomotiv-kuban-krasnodar,Зенит,Локомотив Кубань,basketball1,2023-01-29 17:00:00
+virginia-tech-hokies-vs-syracuse-orange,Вирджиния Тех Хукис,Сиракуза Оранж,basketball1,2023-01-29 03:00:00
+abilene-christian-wildcats-vs-utah-tech-trailblazers,Эбилен Кристиан Уайлдкетс,Utah Tech Trailblaizers,basketball1,2023-01-29 03:00:00
+eastern-kentucky-colonels-vs-bellarmine-knights,Истерн Кентуки Колонелс,Беллармин Найтс,basketball1,2023-01-29 03:00:00
+liberty-flames-vs-florida-gulf-coast-eagles,Либерти Флеймс,Florida Gulf Coast Eagles,basketball1,2023-01-29 03:00:00
+albany-great-danes-vs-maine-black-bears,Олбани Грейт Дэйнс,Мэн Блэк Беарз,basketball1,2023-01-29 03:00:00
+central-michigan-chippewas-vs-western-michigan-broncos,Централ Мичиган Чиппвас,Вестерн Мичиган Бронкос,basketball1,2023-01-29 03:00:00
+fiu-panthers-vs-middle-tennessee-blue-raiders,Флорида Пантерз,Мидл Теннесси Блю Райдерс,basketball1,2023-01-29 03:00:00
+fresno-st-bulldogs-vs-utah-state-aggies,Фресно Ст Булдогс,Юта Стейт Эггиз,basketball1,2023-01-29 03:00:00
+marshall-thundering-herd-vs-georgia-state-panthers,Маршалл Фандеринг Херд,Джорджиа Стейт Пантерс,basketball1,2023-01-29 03:00:00
+portland-pilots-vs-gonzaga-bulldogs,Портленд Пайлотс,Гонзага Булльдогз,basketball1,2023-01-29 03:00:00
+valparaiso-beacons-vs-evansville-purple-aces,Валпарайсо Биконз,Эвансвиль Пёрпл Эйсес,basketball1,2023-01-29 03:00:00
+wright-state-raiders-vs-wisconsin-green-bay-phoenix,Врайт Стейт Рейдерс,Висконсин Грин Бэй Финикс,basketball1,2023-01-29 03:00:00
+yale-bulldogs-vs-princeton-tigers,Йель,Прицентон Тайгерс,basketball1,2023-01-29 03:00:00
+regis-rangers-vs-new-mexico-highlands-cowboys,Регис Рейнджерс,New Mexico Highlands Cowboys,basketball1,2023-01-29 03:00:00
+bob-jones-bruins-vs-pensacola-christian-eagles,Bob Jones Bruins,Pensacola Christian Eagles,basketball1,2023-01-29 03:00:00
+claremont-mudd-scripps-stags-vs-caltech-beavers,Claremont Mudd Scripps Stags,Caltech Beavers,basketball1,2023-01-29 03:00:00
+occidental-tigers-vs-chapman-panthers,Occidental Tigers,Chapman Panthers,basketball1,2023-01-29 03:00:00
+saint-francis-brooklyn-terriers-vs-liu-sharks,Saint Francis Brooklyn Terriers,LIU Sharks,basketball1,2023-01-29 03:00:00
+texas-rio-grande-valley-vaqueros-vs-california-baptist-lancers,Техас – Рио-Гранде-Вэлли Вакерос,Калифорния Баптист Лансерз,basketball1,2023-01-29 03:30:00
+florida-southern-moccasins-vs-nova-southeastern-sharks,Florida Southern Moccasins,Nova Southeastern Sharks,basketball1,2023-01-29 03:30:00
+georgia-southwestern-hurricanes-vs-young-harris-mountain-lions,Georgia Southwestern Hurricanes,Young Harris Mountain Lions,basketball1,2023-01-29 03:30:00
+fresno-pacific-sunbirds-vs-point-loma-nazarene-sea-lions,Фресно Пацифик Санбердс,Поинт Лома Назарин Си Лайонс,basketball1,2023-01-29 03:30:00
+oklahoma-state-cowboys-vs-ole-miss-rebels,Оклахома Стейт Ковбойз,Миссисипи Ребелс,basketball1,2023-01-29 04:00:00
+kentucky-wildcats-vs-kansas-jayhawks,Кентукки Вайлдкятс,Канзас Джейхокс,basketball1,2023-01-29 04:00:00
+indiana-hoosiers-vs-ohio-state-buckeyes,Индиана Хусьерс,Огайо Стейт Баккейз,basketball1,2023-01-29 04:00:00
+oregon-ducks-vs-utah-utes,Орегон Дакс,Юта Ютс,basketball1,2023-01-29 04:00:00
+washington-state-cougars-vs-arizona-state-sun-devils,Вашингтон Ст Каугарс,Аризона Стейт Сан Девилз,basketball1,2023-01-29 04:00:00
+kansas-city-roos-vs-denver-pioneers,Канзас Сити Рус,Денвер Пионерс,basketball1,2023-01-29 04:00:00
+oral-roberts-golden-eagles-vs-nebraska-omaha-mavericks,Орал Робертс Голден Иглз,Небраска-Омаха Маверикс,basketball1,2023-01-29 04:00:00
+st-thomas-tommies-vs-south-dakota-coyotes,Ст Томас Томмис,Саут Дакота Койотс,basketball1,2023-01-29 04:00:00
+boise-state-broncos-vs-colorado-state-rams,Бойсе Стейт Бронкос,Колорадо Стэйт Рамс,basketball1,2023-01-29 04:00:00
+louisiana-lafayette-ragin-cajuns-vs-georgia-southern-eagles,Луизиана Лафаетт Р. К.,Джорджиа Саутерн Иглс,basketball1,2023-01-29 04:00:00
+tarleton-state-texans-vs-grand-canyon-antelopes,Tarleton State Texans,Grand Canyon Antelopes,basketball1,2023-01-29 04:00:00
+metropolitan-state-roadrunners-vs-fort-lewis-skyhawks,Metropolitan State Roadrunners,Fort Lewis Skyhawks,basketball1,2023-01-29 04:00:00
+augustana-il-vikings-vs-illinois-wesleyan-titans,Агустана иль Викингс,Иллинойс Уэслиан Тайтенс,basketball1,2023-01-29 04:15:00
+texas-a-m-aggies-vs-vanderbilt-commodores,Texas A&M Aggies,Вандербильт Комоодорес,basketball1,2023-01-29 04:30:00
+san-diego-state-aztecs-vs-san-jose-state-spartans,Сан Диего Стейт Ацтекс,Сан Хосе Стейт Спартанс,basketball1,2023-01-29 05:00:00
+uc-irvine-anteaters-vs-cal-st-northridge,Калифорния Ирвайн Антитерс,Кал Стейт Норфридж,basketball1,2023-01-29 05:00:00
+colorado-mines-orediggers-vs-adams-state-grizzlies,Colorado Mines Orediggers,Adams State Grizzlies,basketball1,2023-01-29 05:00:00
+george-fox-bruins-vs-linfield-wildcats,George Fox Bruins,Linfield Wildcats,basketball1,2023-01-29 05:00:00
+whitman-blues-vs-pacific-lutheran-lutes,Whitman Blues,Pacific Lutheran Lutes,basketball1,2023-01-29 05:00:00
+whitworth-pirates-vs-puget-sound-loggers,Whitworth Pirates,Puget Sound Loggers,basketball1,2023-01-29 05:00:00
+lewis-clark-pioneers-vs-willamette-bearcats,Льюис и Кларк Пионерс,Willamette Bearcats,basketball1,2023-01-29 05:00:00
+central-washington-wildcats-vs-montana-state-billings-yellowjackets,Central Washington Wildcats,Montana State Billings Yellowjackets,basketball1,2023-01-29 05:15:00
+south-dakota-hardrockers-vs-chadron-state-eagles,South Dakota Hardrockers,Chadron State Eagles,basketball1,2023-01-29 05:30:00
+northwest-nazarene-nighthawks-vs-seattle-pacific-falcons,Northwest Nazarene Nighthawks,Seattle Pacific Falcons,basketball1,2023-01-29 05:30:00
+colorado-mesa-mavericks-vs-western-colorado-mountaineers,Colorado Mesa Mavericks,Вестерн Колорадо Маунтейнирс,basketball1,2023-01-29 05:30:00
+stanford-cardinal-vs-california-golden-bears,Стэнфорд Кардинал,Калифорния Голден Беарс,basketball1,2023-01-29 06:00:00
+cal-poly-mustangs-vs-cal-state-fullerton-titans,Кал Поли Мустангс,Cal State Fullerton Titans,basketball1,2023-01-29 06:00:00
+brigham-young-cougars-vs-saint-mary-s-gaels,Бригам Янг Кугарс,Сент Мари Гелс,basketball1,2023-01-29 06:00:00
+portland-state-vikings-vs-montana-grizzlies,Портленд Стейт Викингз,Монтана Гриззлиз,basketball1,2023-01-29 06:00:00
+sacramento-state-hornets-vs-montana-state-bobcats,Сакраменто Стейт Хорнетс,Монтана Стейт Бобкятс,basketball1,2023-01-29 06:00:00
+unlv-runnin-rebels-vs-nevada-wolf-pack,УНЛВ Руннин Ребелс,Невада Волф Пак,basketball1,2023-01-29 06:00:00
+san-diego-toreros-vs-san-francisco-dons,Сан Диего Торерос,Сан Франциско Донс,basketball1,2023-01-29 06:00:00
+simon-fraser-clan-vs-st-martins-saints,Simon Fraser Clan,St Martins Saints,basketball1,2023-01-29 06:00:00
+western-washington-vikings-vs-western-oregon-wolves,Western Washington Vikings,Вэстерн Орегон Вульфз,basketball1,2023-01-29 06:00:00
+cal-lutheran-kingsmen-vs-redlands-bulldogs,Cal Lutheran Kingsmen,Редлендс Бульдогс,basketball1,2023-01-29 06:00:00
+pomona-pitzer-sagehens-vs-whittier-poets,Pomona-Pitzer Sagehens,Whittier Poets,basketball1,2023-01-29 06:00:00
+oregon-state-beavers-vs-colorado-buffaloes,Орегон Биверс,Колорадо Буффалос,basketball1,2023-01-29 06:30:00
+humboldt-state-lumberjacks-vs-cal-state-monterey-bay-otters,Гумбольдт Стэйт Дровосеки,Cal State Monterey Bay Otters,basketball1,2023-01-29 06:30:00
+sonoma-state-seawolves-vs-san-francisco-state-gators,Sonoma State Seawolves,Сан-Франциско Стэйт Гэторс,basketball1,2023-01-29 06:30:00
+loyola-marymount-lions-vs-pepperdine-waves,Лойола Мэримаунт Лайонс,Пеппердин Вейвс,basketball1,2023-01-29 07:00:00
+hawaii-rainbow-warriors-vs-cal-state-bakersfield,Гавайи Рейнбоу Варриорс,Кал Стейт Бакерсфелд Роадраннерс,basketball1,2023-01-29 08:00:00
+merchant-marine-mariners-vs-yeshiva-maccabees,Merchant Marine Mariners,Yeshiva Maccabees,basketball1,2023-01-29 22:00:00
+st-thomas-celts-vs-southwestern-pirates,St Thomas Celts,Southwestern Pirates,basketball1,2023-01-29 23:00:00
+herons-basket-vs-legnano-knights,Herons Basket,Леньяно Найтс,basketball1,2023-01-29 20:00:00
+elachem-vigevano-1955-vs-langhe-roero-basketball,Elachem Vigevano 1955,Langhe Roero Basketball,basketball1,2023-01-29 20:00:00
+basket-golfo-piombino-vs-pelle-livorno,Basket Golfo Piombino,Pelle Livorno,basketball1,2023-01-29 20:00:00
+libertas-livorno-vs-college-bk-borgomanero,Libertas Livorno,College BK Borgomanero,basketball1,2023-01-29 20:00:00
+sangiorgese-basket-vs-basketball-gallarate,Sangiorgese Basket,Basketball Gallarate,basketball1,2023-01-29 20:00:00
+orlandina-basket-vs-bergamo-basket-2014,Орландина,Бергамо,basketball1,2023-01-29 20:00:00
+pallacanestro-crema-vs-virtus-basket-padova,Pallacanestro Crema,Virtus Basket Padova,basketball1,2023-01-29 20:00:00
+reggio-calabria-vs-rucker-sanve-san-vendemiano,Реджо ди Калабриа,Rucker Sanve San Vendemiano,basketball1,2023-01-29 20:00:00
+virtus-lumezzane-vs-pallacanestro-vicenza,Virtus Lumezzane,Pallacanestro Vicenza,basketball1,2023-01-29 20:00:00
+virtus-imola-vs-raggisolaris-faenza,Virtus Imola,Raggisolaris Faenza,basketball1,2023-01-29 20:00:00
+etrusca-san-miniato-vs-real-sebastiani-rieti,Etrusca San Miniato,Real Sebastiani Rieti,basketball1,2023-01-29 20:00:00
+bakery-basket-piacenza-vs-basket-jesi-academy,Bakery Basket Piacenza,Basket Jesi Academy,basketball1,2023-01-29 20:00:00
+pallacanestro-fiorenzuola-vs-use-basket-empoli,Pallacanestro Fiorenzuola,Use Basket Empoli,basketball1,2023-01-29 20:00:00
+campetto-basket-ancona-vs-pallacanestro-senigallia,Campetto Basket Ancona,Pallacanestro Senigallia,basketball1,2023-01-29 20:00:00
+pallacanestro-firenze-vs-tigers-cesena,Pallacanestro Firenze,Tigers Cesena,basketball1,2023-01-29 20:00:00
+ristopro-fabriano-vs-andrea-costa-imola,Ristopro Fabriano,Андрея Коста Имола,basketball1,2023-01-29 20:00:00
+lions-basket-bisceglie-vs-basket-corato,Lions Basket Bisceglie,Basket Corato,basketball1,2023-01-29 20:00:00
+ap-monopoli-vs-teramo-a-spicchi,AP Monopoli,Teramo A Spicchi,basketball1,2023-01-29 20:00:00
+cus-jonico-basket-taranto-vs-talos-ruvo-di-puglia,Cus Jonico Basket Taranto,Talos Ruvo Di Puglia,basketball1,2023-01-29 20:00:00
+toyama-grouses-vs-akita-northern-happinets,Тояма Граузес,Акита Нортерн Хэппинесс,basketball1,2023-01-29 07:05:00
+levanga-hokkaido-vs-kawasaki-brave-thunders,Леванга Хоккайдо,Kawasaki Brave Thunders,basketball1,2023-01-29 08:05:00
+sendai-89ers-vs-shiga-lakestars,Сендай 89-е,Shiga Lakestars,basketball1,2023-01-29 08:05:00
+yokohama-b-corsairs-vs-kyoto-hannaryz,Йокогама Б-Корсарс,Kyoto Hannaryz,basketball1,2023-01-29 08:05:00
+tochigi-brex-vs-hiroshima-dragonflies,Tochigi Brex,Хиросима Драгонфлайс,basketball1,2023-01-29 09:05:00
+gunma-crane-thunders-vs-ryukyu-golden-kings-okinawa,Гунма Крейн Тандерс,Рюкю Голден Кингз,basketball1,2023-01-29 09:05:00
+toyota-alvark-tokyo-vs-niigata-albirex-bb,Тойота Алварк Токио,Ниигата Альбирекс,basketball1,2023-01-29 09:05:00
+san-en-neophoenix-vs-shimane-susanoo-magic,Сан-Эн Неофеникс,Шимане Сусаноо Мэджик,basketball1,2023-01-29 09:05:00
+seahorses-mikawa-vs-ibaraki-robots,Seahorses Mikawa,Tsukuba Robots,basketball1,2023-01-29 09:05:00
+fighting-eagles-nagoya-vs-chiba-jets,Файтинг Иглз Нагоя,Чиба Джетс,basketball1,2023-01-29 09:05:00
+nagoya-diamond-dolphins-vs-shinshu-brave-warriors,Nagoya Diamond Dolphins,Шиншу Брэйв Уорриорс,basketball1,2023-01-29 09:05:00
+osaka-evessa-vs-sun-rockers-shibuya,Осака Ивесса,Сан Рокерз Сибуя,basketball1,2023-01-29 09:05:00
+mantovana-vs-as-pistoia-basket-2000,Мантована,Пистоя,basketball1,2023-01-29 19:00:00
+blu-basket-1971-vs-pallacanestro-trapani,Блу Баскет Тревильо,Трапани,basketball1,2023-01-29 19:00:00
+fortitudo-bologna-vs-amici-pallacanestro-udinese,Fortitudo Bologna,Удине,basketball1,2023-01-29 19:00:00
+cantu-vs-unione-cestistica-casalpusterlengo,Канту,Касалпустерленго,basketball1,2023-01-29 20:00:00
+vanoli-cremona-vs-auxilium-torino,Vanoli Cremona,Ауксилиум Торино,basketball1,2023-01-29 20:00:00
+stella-azzurra-roma-vs-juvi-cremona-1952,Stella Azzurra Roma,Juvi Cremona 1952,basketball1,2023-01-29 20:00:00
+cestistica-citta-di-san-severo-vs-chieti-basket-1974,Cestistica Citta Di San Severo,Chieti Basket 1974,basketball1,2023-01-29 20:00:00
+rinascita-basket-rimini-vs-san-giobbe-chiusi,Rinascita Basket Rimini,San Giobbe Chiusi,basketball1,2023-01-29 20:00:00
+kleb-basket-ferrara-vs-ravenna-piero-manetti,Феррара,Равенна,basketball1,2023-01-29 20:00:00
+bc-vysocina-vs-bcm-orli-prostejov,BC Vysocina,BCM Orli Prostejov,basketball1,2023-01-29 17:30:00
+bk-snakes-ostrava-vs-turi-svitavy,BK Snakes Ostrava,Туржы Свитави,basketball1,2023-01-29 19:00:00
+sokol-pisek-vs-bk-lokomotiva-plzen,Sokol Pisek,BK Lokomotiva Plzen,basketball1,2023-01-29 19:00:00
+basket-brno-u23-vs-bk-opava-b,Basket Brno U23,БК Опава Б,basketball1,2023-01-29 20:00:00
+bk-levharti-chomutov-vs-gba-sojky-pelhrimov,Лехварти Хомутов,Gba Sojky Pelhrimov,basketball1,2023-01-29 20:00:00
+usk-prague-b-vs-gba-lions-jindrichuv-hradec,USK Prague B,GBA Lions Jindrichuv Hradec,basketball1,2023-01-29 20:00:00
+lakeland-magic-vs-fort-wayne-mad-ants,Lakeland Magic,Форт-Уэйн Мэд Энтс,basketball1,2023-01-29 03:00:00
+wisconsin-herd-vs-greensboro-swarm,Wisconsin Herd,Greensboro Swarm,basketball1,2023-01-29 04:00:00
+stockton-kings-vs-memphis-hustle,Stockton Kings,Memphis Hustle,basketball1,2023-01-29 04:00:00
+rio-grande-valley-vipers-vs-austin-spurs,Рио-Гранде Вэлли Вайперс,Остин Спёрс,basketball1,2023-01-29 04:30:00
+texas-legends-vs-capitanes-ciudad-de-mexico,Техас Леджендз,Capitanes Ciudad de Mexico,basketball1,2023-01-29 04:30:00
+bc-cherkaski-mavpy-vs-bc-bipa-odessa,BC Cherkaski Mavpy,BC Bipa Odessa,basketball1,2023-01-29 12:00:00
+kyiv-basket-vs-bc-goverla,Киев-Баскет,БК Говерла,basketball1,2023-01-29 15:00:00
+politekhnika-halychyna-vs-staryi-lutsk-universitet,Политехника-Галичина,Staryi Lutsk-Universitet,basketball1,2023-01-29 18:00:00
+staryi-lutsk-universitet-vs-politekhnika-halychyna,Staryi Lutsk-Universitet,Политехника-Галичина,basketball1,2023-01-29 18:00:00
+kyiv-basket-vs-politekhnika-halychyna,Киев-Баскет,Политехника-Галичина,basketball1,2023-01-29 19:00:00
+saarlouis-royals-vs-angels-nordlingen,ТВ Саарлуиз,Энджелс Нордлинген,basketball1,2023-01-29 17:00:00
+panthers-osnabruck-vs-eisvogel-freiburg,Пантеры Оснабрюк,Фрайбург,basketball1,2023-01-29 18:00:00
+tk-hannover-luchse-vs-herner-tc,ТК Ганновер,ТЦ Гернер,basketball1,2023-01-29 18:00:00
+rheinland-lions-vs-rutronik-stars-keltern,Рейнланд Лайонс,Рутроник Старс Кёльтерн,basketball1,2023-01-29 18:00:00
+kagawa-five-arrows-vs-bambitious-nara,Кагава Файв Эрроус,Бамбитиус Нара,basketball1,2023-01-29 07:00:00
+kumamoto-vorters-vs-earthfriends-tokyo-z,Кумамото Вортерс,Эртфрендс Токио З,basketball1,2023-01-29 08:00:00
+yamagata-wyverns-vs-nagasaki-velca,Ямагата Вивернс,Nagasaki Velca,basketball1,2023-01-29 08:00:00
+altiri-chiba-vs-aomori-wats,Altiri Chiba,Аомори Уотс,basketball1,2023-01-29 09:00:00
+basquet-manresa-vs-real-madrid,Манреса,Реал Мадрид,basketball1,2023-01-29 14:30:00
+cb-malaga-vs-valencia-basket,Малага,Валенсия,basketball1,2023-01-29 15:00:00
+cb-murcia-vs-cd-saski-baskonia,Мурсия,Баскония,basketball1,2023-01-29 19:00:00
+sb-gran-canaria-vs-obradoiro-cab,Гран-Канария,Обрадойро,basketball1,2023-01-29 20:30:00
+bayern-munich-vs-bg-gottingen,Бавария,Геттинген,basketball1,2023-01-29 17:00:00
+medi-bayreuth-vs-telekom-baskets-bonn,Байреут,Телеком Бонн,basketball1,2023-01-29 17:00:00
+fraport-skyliners-vs-hamburg-towers,Фрапорт Скайлайнерс Франкфурт,Гамбург Тауэрс,basketball1,2023-01-29 17:00:00
+basketball-lowen-braunschweig-vs-niners-chemnitz,Брауншвейг,Niners Chemnitz,basketball1,2023-01-29 20:00:00
+pelita-jaya-bakrie-jakarta-vs-nsh-mountain-gold-timika,Пелита Джая Бакри Джакарта,НСХ Маунтейн Голд Тимика,basketball1,2023-01-29 07:30:00
+indonesia-patriots-vs-pacific-caesar-surabaya,Индонезия Пэтриотс,Пасифик Цезарь,basketball1,2023-01-29 10:00:00
+satria-muda-pertamina-jakarta-vs-amartha-hangtuah-jakarta,Сатрия Муда Пертамина Джакарта,Амарта Ханг Туах Джакарта,basketball1,2023-01-29 12:30:00
+bali-united-bc-vs-bima-perkasa-jogja,Бали Юнайтед,Бима Перкаса Джоджа,basketball1,2023-01-29 15:00:00
+arkan-gemlik-basketbol-vs-samsunspor,Arkan Gemlik Basketbol,Samsunspor,basketball1,2023-01-29 14:00:00
+kocaeli-bsb-vs-final-spor,Kocaeli Bsb,Final Spor,basketball1,2023-01-29 15:45:00
+cagdas-bodrum-spor-vs-balikesir-belediye-spor,Cagdas Bodrum Spor,Balikesir Belediye Spor,basketball1,2023-01-29 17:30:00
+kk-dinamo-zagreb-vs-kk-split,KK Dinamo Zagreb,Сплит,basketball1,2023-01-29 20:00:00
+kk-gorica-vs-kk-skrljevo,Горица,KK Skrljevo,basketball1,2023-01-29 21:00:00
+kk-cedevita-zagreb-junior-vs-kk-zadar,Kk Cedevita Zagreb Junior,Задар,basketball1,2023-01-29 22:45:00
+flyers-wels-vs-ece-bulls-kapfenberg,Флайерс Уэлс,Капфенберг Буллс,basketball1,2023-01-29 19:30:00
+swans-gmunden-vs-bsc-furstenfeld-panthers,Свонс Гмунден,Фюрстенфельд Пантерз,basketball1,2023-01-29 19:30:00
+bc-vienna-vs-bk-dukes-klosterneuburg,Вена,Дюкс Клостернойбург,basketball1,2023-01-29 20:00:00
+kk-cibona-vs-bc-mega-bemax,Цибона,Мега Бемакс,basketball1,2023-01-29 14:00:00
+fmp-vs-kk-crvena-zvezda,ФМП Белград,Црвена Звезда,basketball1,2023-01-29 17:00:00
+olimpija-ljubljana-vs-kk-buducnost-volifr,Олимпия Любляна,Будучност Подгорица,basketball1,2023-01-29 19:00:00
+merkezefendi-belediyesi-denizli-basket-vs-darussafaka,Merkezefendi Belediyesi Denizli Basket,Дарюшшафака,basketball1,2023-01-29 13:00:00
+besiktas-jk-vs-manisa-bbsk,Бешикташ,Manisa BBSK,basketball1,2023-01-29 15:30:00
+efes-anadolu-istanbul-vs-petkim-spor-aliaga,Анадолу Эфес,Petkim Spor Aliaga,basketball1,2023-01-29 18:00:00
+elitzur-kiryat-atta-vs-maccabi-tel-aviv,Elitzur Kiryat Atta,Маккаби Тель-Авив,basketball1,2023-01-29 18:00:00
+hapoel-haifa-bc-vs-hapoel-beer-sheva,Hapoel Haifa BC,Хапоэль Беер-Шева,basketball1,2023-01-29 18:15:00
+ironi-ness-ziona-vs-hapoel-tel-aviv,Ирони Нес Циона,Хапоэль Тель-Авив,basketball1,2023-01-29 19:00:00
+kt-sonicboom-vs-lg-sakers,КТ Соникбум,Эл Джи Сэйкерс,basketball1,2023-01-29 08:00:00
+anyang-kgc-vs-daegu-pegasus,Аньян КГК,Daegu Pegasus,basketball1,2023-01-29 08:00:00
+mobis-phoebus-vs-seoul-sk-knights,Мобис Фобус,Сеул Найтс,basketball1,2023-01-29 10:00:00
+formosa-taishin-dreamers-vs-new-taipei-kings,Formosa Taishin Dreamers,New Taipei Kings,basketball1,2023-01-29 09:30:00
+taipei-fubon-braves-vs-kaohsiung-steelers,Taipei  Fubon Braves,Kaohsiung Steelers,basketball1,2023-01-29 12:00:00
+nadir-gold-istanbul-basket-vs-aykanat-sk,Nadir Gold Istanbul Basket,Aykanat SK,basketball1,2023-01-29 18:00:00
+anadolu-basket-ankara-vs-konya-bbsk,Anadolu Basket Ankara,Konya Basket,basketball1,2023-01-29 18:00:00
+paok-bc-vs-gs-lavriou,ПАОК,Лавриоу,basketball1,2023-01-29 16:45:00
+as-karditsas-vs-apollon-patras,Кардица,Аполлон Патрас,basketball1,2023-01-29 18:00:00
+kk-zlatibor-vs-pelister-bitola,Златыбор,Pelister Bitola,basketball1,2023-01-29 14:00:00
+okk-spars-ilidza-vs-kk-sutjeska-niksic,OKK Spars Sarajevo,KK Sutjeska Niksic,basketball1,2023-01-29 17:00:00
+achilleas-kaimakliou-vs-enosis-neon-paralimni,Achilleas Kaimakliou,Эносис Неон Паралимни,basketball1,2023-01-29 17:00:00
+apoel-nicosia-vs-aek-larnaca,АПОЭЛ Никосия,АЕК Ларнака,basketball1,2023-01-29 19:00:00
+converge-fiberxers-vs-magnolia-hotshots,Converge Fiberxers,Magnolia Hotshots,basketball1,2023-01-29 11:30:00
+san-miguel-beermen-vs-phoenix-pulse-fuel-masters,San Miguel Beermen,Феникс Фьюил Мастерс,basketball1,2023-01-29 13:45:00
+basket-zaragoza-2002-vs-valencia-bc,Basket Zaragoza 2002,Valencia BC,basketball1,2023-01-29 14:15:00
+ensino-lugo-vs-cb-islas-canarias,Ensino Lugo,CB Islas Canarias,basketball1,2023-01-29 14:30:00
+ttu-kk-vs-valmiera-glass-via,ТТУ КК,Valmiera Glass Via,basketball1,2023-01-29 18:00:00
+keila-kk-vs-bk-ventspils,Keila Korvpallikool,Вентспилс,basketball1,2023-01-29 18:30:00
+polonia-warszawa-vs-slask-wroclaw-ii,Полония Варшава,Slask Wroclaw II,basketball1,2023-01-29 17:00:00
+mks-start-lublin-ii-vs-rosa-radom,MKS Start Lublin II,Роса Радом,basketball1,2023-01-29 17:00:00
+strasbourg-ig-vs-jeunesse-laique-de-bourg-en-bresse,Strasbourg IG,Женесс Лайке Бурж-эн-Брес,basketball1,2023-01-29 17:15:00
+asvel-basket-vs-as-monaco,АСВЕЛ,Монако,basketball1,2023-01-29 19:00:00
+desden-titans-vs-tbb-trier,Дрезден Титанс,Херцотель Триер,basketball1,2023-01-29 18:00:00
+art-giants-dusseldorf-vs-nuremberg-falcons-bc,Art Giants Dusseldorf,Фальконс,basketball1,2023-01-29 18:00:00
+olimpia-milano-vs-aquila-trento,Олимпия Милан,Акила Тренто,basketball1,2023-01-29 18:15:00
+universo-treviso-basket-vs-derthona-basket,Тревизо,Дертона Баскет,basketball1,2023-01-29 19:30:00
+tasmania-jackjumpers-vs-perth-wildcats,Tasmania Jackjumpers,Перс Вайлдкетс,basketball1,2023-01-29 06:00:00
+sydney-kings-vs-se-melbourne-phoenix,Сидней Кингс,SE Melbourne Phoenix,basketball1,2023-01-29 08:00:00
+sydney-uni-flames-vs-townsville-fire,Сидней Флеймс,Таунсвилл Файр,basketball1,2023-01-29 05:30:00
+melbourne-boomers-vs-perth-lynx,Мельбурн Бумерс,Перт Линкс,basketball1,2023-01-29 07:30:00
+kongsberg-miners-vs-gimle-bk,Конгсберг Майнерз,Гимле,basketball1,2023-01-29 18:00:00
+froeya-ambassadors-vs-ammerud-basket,Фроя Амбассадорс,Аммеруд Баскет,basketball1,2023-01-29 19:00:00
+limburg-united-b-vs-basics-melsele,Limburg United B,Базикс Мельзеле,basketball1,2023-01-29 15:30:00
+iraklis-2022-vs-ao-triton,Iraklis 2022,AO Triton,basketball1,2023-01-29 16:00:00
+spartak-subotica-vs-kk-mladost-zemun,Спартак Суботица,Младость Земун,basketball1,2023-01-29 21:00:00
+leicester-riders-vs-london-lions,Лестер Райдерс,Лондон Лайонс,basketball1,2023-01-29 18:30:00
+cb-estudiantes-vs-caprabo-lleida,Эстудиантес,Капрабо Лерида,basketball1,2023-01-29 14:30:00
+regatas-corrientes-vs-argentino-junin,Регатас,Архентино Хунин,basketball1,2023-01-29 04:00:00
+kfum-fryshuset-basket-vs-jamtland-basket,KFUM Fryshuset Basket,Ямтланд Баскет,basketball1,2023-01-29 19:04:00
+bk-usti-nad-labem-vs-bk-opava,Слунета Усти над Лабем,Опава,basketball1,2023-01-29 20:00:00
+cd-atletico-puerto-varas-vs-cd-colegio-los-leones-de-quilpue,CD Atletico Puerto Varas,Леонес де Кильпэу,basketball1,2023-01-29 03:30:00
+bc-zalgiris-kaunas-vs-bc-jonava,Жальгирис,BC Jonava,basketball1,2023-01-29 18:00:00
+bm-s-stal-ostrow-wielkopolski-vs-polski-cukier-torun,Сталь Острув-Велькопольски,Польски Цукер,basketball1,2023-01-29 19:30:00
+busan-bnk-sum-vs-bucheon-hana-1q,Busan BNK Sum,Пучхон Кеб Хана Банк,basketball1,2023-01-29 08:00:00
+cleveland-cavaliers-vs-los-angeles-clippers,Кливленд Кавальерс,Лос-Анджелес Клипперс,basketball1,2023-01-30 03:00:00
+milwaukee-bucks-vs-new-orleans-pelicans,Милуоки Бакс,Нью-Орлеан Пеликанс,basketball1,2023-01-30 04:00:00
+bc-uniks-kazan-vs-bc-nizhny-novgorod,УНИКС,Нижний Новгород,basketball1,2023-01-30 19:00:00
+prawira-bandung-vs-tangerang-hawks,Правира Бандунг,Тангеранг Хоукс,basketball1,2023-01-30 07:30:00
+bumi-borneo-basketball-pontianak-vs-evos-thunder-bogor,Буми Борнео Понтианак,Эвос Тандер Богор,basketball1,2023-01-30 10:00:00
+dewa-united-banten-vs-satya-wacana-lbc,Дева Юнайтед Сурабайя,Сатья Вакана,basketball1,2023-01-30 12:30:00
+rans-pik-basketball-club-vs-west-bandits-solo,Ранс ПИК,Вест Бандитс Соло,basketball1,2023-01-30 15:00:00
+misericordia-cougars-vs-suny-cobleskill-fighting-tigers,Misericordia Cougars,SUNY Cobleskill Fighting Tigers,basketball1,2023-01-30 02:00:00
+notre-dame-falcons-vs-penn-state-fayette-nittany-lions,Notre Dame Falcons,Penn State Fayette Nittany Lions,basketball1,2023-01-30 02:00:00
+concordia-moorhead-cobbers-vs-st-john-johnnies,Concordia Moorhead Cobbers,Ст. Джонс Джоннис,basketball1,2023-01-30 02:15:00
+ec-pinheiros-sp-vs-sao-paulo-fc,Пиньейрос,Sao Paulo FC,basketball1,2023-01-30 01:00:00
+sao-jose-dos-campos-vs-minas-tenis-clube-mg,Сан-Жозе-дус-Кампус,Минас,basketball1,2023-01-30 01:30:00
+cerrado-basquete-vs-caxias-do-sul,Cerrado Basquete,Каши́ас-ду-Сул,basketball1,2023-01-30 02:00:00
+lukoil-levski-vs-cherno-more-ig,Лукойл Левски,Черно Море,basketball1,2023-01-30 18:30:00
+cska-sofia-vs-bc-beroe-sz,CSKA Sofia,Берое,basketball1,2023-01-30 20:00:00
+bc-spartak-pleven-vs-shumen,БК Спартак Плевен,Шумен,basketball1,2023-01-30 20:00:00
+tesvikiye-sk-vs-cayirova-belediyesi,Tesvikiye SK,Cayirova Belediyesi,basketball1,2023-01-30 14:00:00
+lima-spor-vs-akhisar-belediye,Lima Spor,Akhisar Belediye,basketball1,2023-01-30 19:00:00
+san-martin-corrientes-vs-atenas-cordoba,Сан-Мартин,Атенас,basketball1,2023-01-30 04:00:00
+obras-sanitarias-vs-ferro-carril-oeste,Обрас Санитариас,Ферро Карриль Оэсте,basketball1,2023-01-30 01:30:00
+club-trouville-vs-ca-penarol,Трувиль,Пеньяроль,basketball1,2023-01-30 02:15:00
+club-atletico-olimpia-vs-club-bigua-de-villa-biarritz,Олимпия,Бигуа,basketball1,2023-01-30 02:30:00
+gargzdai-sc-vs-pieno-zvaigzdes,Gargzdai SC,Пиено Жвайгждес,basketball1,2023-01-30 19:30:00
+bc-siauliai-vs-juventus-utena,Шауляй,Ювентус Утена,basketball1,2023-01-30 19:30:00
+stk-czarni-slupsk-vs-stelmet-zielona-gora,СТК Чарни Шлупск,Стелмет Зелена Гура,basketball1,2023-01-30 20:00:00
+asseco-gdynia-vs-mks-dabrowa-gornicza,Ассеко Гдыня,Домброва-Гурнича,basketball1,2023-01-30 21:30:00
+golbashi-bel-ted-ankara-kolejliler-vs-semt-77-yalovaspor,Golbashi Bel. Ted Ankara Kolejliler,Yalovaspor,basketball1,2023-01-30 18:00:00
+leaders-club-louaize-vs-hoops,Leaders Club Louaize,Hoops,basketball1,2023-01-30 17:45:00
+vienna-d-c-timberwolves-vs-oberwart-gunners,Вена Д.К. Тимбервулвз,Оберварт Ганнерс,basketball1,2023-01-30 21:00:00
+south-bay-lakers-vs-santa-cruz-warriors,South Bay Lakers,Санта Крус Уорриорс,basketball1,2023-01-30 04:00:00
+omonia-bc-vs-anorthosis-famagusta,Omonia BC,Anorthosis Famagusta,basketball1,2023-01-30 20:00:00
+koping-stars-vs-norrkoping-dolphins,Koping Stars,Norrkoping Dolphins,basketball1,2023-01-30 21:04:00
+ceb-puerto-montt-vs-cd-colegio-los-leones-de-quilpue,Пуэрте Монтт,Леонес де Кильпэу,basketball1,2023-01-30 03:00:00
+bnei-herzelia-vs-hapoel-galil-elion-safed,Бней Герцлия,Хапоэль Галил Элион Сафед,basketball1,2023-01-30 20:45:00
+cairns-taipans-vs-adelaide-36ers,Кэйрнс Тэйпэнс,Аделаида 36Эрс,basketball1,2023-01-30 11:30:00
+zaglebie-sosnowiec-vs-ks-basket-25-bydgoszcz,Заглембе Сосновец,Basket 25 Bydgoszcz,basketball1,2023-01-30 20:00:00
+dsk-levharti-chomutov-vs-sbs-ostrava,DSK Levharti Chomutov,ЖБК Острава,basketball1,2023-01-30 21:00:00
+goyang-carrot-jumpers-vs-samsung-thunders,Коян Орионс,Самсунг Тандерс,basketball1,2023-01-30 13:00:00
+incheon-shinhan-bank-s-birds-vs-asan-woori-bank-wibee,Шинхан С-Бёрдз,Asan Woori Bank Wibee,basketball1,2023-01-30 13:00:00
