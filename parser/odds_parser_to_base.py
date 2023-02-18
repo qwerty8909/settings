@@ -27,11 +27,11 @@ def execute_values(conn, df, table):
 
 
 # подключаемся к серверу
-conn = psycopg2.connect(database="postgres",
-                        host="localhost",
+conn = psycopg2.connect(database="betting",
+                        host="88.218.169.217",
                         port="5432",
                         user="postgres",
-                        password="1234")
+                        password="ZXC12VBN")
 conn.autocommit = False
 cursor = conn.cursor()
 
