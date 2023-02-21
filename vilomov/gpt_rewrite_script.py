@@ -13,7 +13,7 @@ content = file_contents.replace('\'', '').replace('\n', ' ').replace('"', ' ').r
                         .replace('(', '').replace(')', '').replace('  ', ' ').replace(' .', '.')
 results = openai.Completion.create(
     model="text-davinci-003",               # "text-davinci-003" "text-curie-001"
-    prompt=file_prompt + content + '.\n',    # make the article in 650 words as sport news:
+    prompt=file_prompt + content + '.\n',   # make the article in 650 words as sport news:
                                             # make the advertising in 150 words for sporting event:
                                             # summarize text in 600 words:
                                             # shorten the article in 650 words:
