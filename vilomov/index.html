@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <title>GPT Article</title>
+</head>
+<body>
+<h1>Вставьте статью:</h1>
+<form method="post">
+    <textarea type="text" name="user_input" style="height:150px; width:80%" ></textarea>
+    <button type="submit">Ввод</button>
+</form>
+{% if user_input %}
+<h2>Ваша статья:</h2>
+<p style="white-space:pre-wrap; width:80%" >{{ user_input }}</p>
+{% endif %}
+{% if output %}
+<h2>Статья обработанная GPT:</h2>
+<p style="white-space:pre-wrap; width:80%" >{{ output }}</p>
+{% endif %}
+</body>
+</html>

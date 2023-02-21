@@ -1,0 +1,10 @@
+[Unit]
+Description=gpt_service
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/bin/python3 /home/project/news_maker.py
+
+[Install]
+WantedBy=multi-user.target

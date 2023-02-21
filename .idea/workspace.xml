@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee23a7a-64d7-45f1-98d9-4a5b7003af00" name="Changes" comment="update project">
+    <list default="true" id="6ee23a7a-64d7-45f1-98d9-4a5b7003af00" name="Changes" comment="make flask">
+      <change afterPath="$PROJECT_DIR$/vilomov/article_writer/article_generator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/betteam_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/betteam_bets.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parser/bookmakerratings_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/bookmakerratings_bets.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser/championat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/championat.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser/championat_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/championat_bets.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/ironbets_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/ironbets_bets.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parser/matchtv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/matchtv.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser/metaratings_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/metaratings_bets.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parser/soccer365_bets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/soccer365_bets.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser/sportsru.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parser/sportsru.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vilomov/gpt_rewrite_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/gpt_rewrite_in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vilomov/gpt_rewrite_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/gpt_rewrite_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vilomov/gpt_rewrite_prompt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/gpt_rewrite_prompt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vilomov/gpt_rewrite_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/gpt_rewrite_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilomov/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vilomov/x1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/x1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vilomov/x2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vilomov/x2.ipynb" afterDir="false" />
     </list>
@@ -26,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,8 +51,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;TF_FMT&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vitalii/IdeaProjects/settings/myproject/myproject&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vitalii/IdeaProjects/settings/parser/test&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -63,18 +67,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vitalii\IdeaProjects\settings\myproject\myproject" />
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\parser\test" />
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\vilomov\article_writer" />
       <recent name="C:\Users\vitalii\IdeaProjects\settings\vilomov" />
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\myproject\myproject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\vilomov\article_writer" />
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\vilomov\article_writer\templates" />
+      <recent name="C:\Users\vitalii\IdeaProjects\settings\parser\test\parser" />
       <recent name="C:\Users\vitalii\IdeaProjects\settings\vilomov" />
       <recent name="C:\Users\vitalii\IdeaProjects\settings\myproject" />
-      <recent name="C:\Users\vitalii\IdeaProjects\settings\myproject\myproject" />
-      <recent name="C:\Users\vitalii\IdeaProjects\settings\parser" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.article_generator (1)">
+    <configuration name="article_generator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="settings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov/article_writer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vilomov/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vilomov/article_writer/article_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="article_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="settings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov/article_writer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\vitalii\IdeaProjects\settings\vilomov\app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vitalii\IdeaProjects\settings\vilomov\article_writer\article_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bookmakerratings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="settings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parser/test/predict_parser" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\vitalii\IdeaProjects\settings\vilomov\app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser/test/predict_parser/bookmakerratings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="championat_rewrite_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="soccer365" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="settings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parser/test/predict_parser" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vilomov/championat_rewrite_script.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser/test/predict_parser/soccer365.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gpt_rewrite_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vseprosport" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="settings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,78 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parser/test/predict_parser" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vilomov/gpt_rewrite_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="settings" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\vitalii\IdeaProjects\settings\myproject\main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="translator_script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="settings" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vilomov" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vilomov/translator_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="settings" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myproject" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\vitalii\IdeaProjects\settings\myproject\myproject\views.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser/test/predict_parser/vseprosport.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (1)" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.views" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.championat_rewrite_script" />
+        <item itemvalue="Python.article_generator (1)" />
+        <item itemvalue="Python.article_generator" />
+        <item itemvalue="Python.bookmakerratings" />
+        <item itemvalue="Python.soccer365" />
+        <item itemvalue="Python.vseprosport" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +248,17 @@
       <workItem from="1676793927047" duration="8569000" />
       <workItem from="1676873788877" duration="16424000" />
       <workItem from="1676907866913" duration="13142000" />
+      <workItem from="1676961062387" duration="2085000" />
+      <workItem from="1676969086871" duration="14000" />
+      <workItem from="1676969145278" duration="2567000" />
+      <workItem from="1676982878614" duration="47000" />
+      <workItem from="1677243568597" duration="2379000" />
+      <workItem from="1677305403067" duration="10816000" />
+      <workItem from="1677496919937" duration="24289000" />
+      <workItem from="1677568061933" duration="27258000" />
+      <workItem from="1677669032912" duration="4536000" />
+      <workItem from="1677757255836" duration="1676000" />
+      <workItem from="1677822146720" duration="10726000" />
     </task>
     <task id="LOCAL-00001" summary="finally">
       <created>1672236943478</created>
@@ -357,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676714617205</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="make flask">
+      <created>1676961335412</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676961335412</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make flask">
+      <created>1676961356382</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676961356382</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,31 +347,51 @@
     <MESSAGE value="games_parser.py&#10;проверено - работает - можно использовать" />
     <MESSAGE value="news_parser.py&#10;проверен на www.skysports.com&#10;переводится на русский GoogleTranslator" />
     <MESSAGE value="update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+    <MESSAGE value="make flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="make flask" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/settings$gpt_test.coverage" NAME="gpt_test Coverage Results" MODIFIED="1675416391623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$ufc_test.coverage" NAME="ufc_test Coverage Results" MODIFIED="1676042695680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1676912845647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject" />
+    <SUITE FILE_PATH="coverage/settings$predict_parser__1_.coverage" NAME="predict_parser (1) Coverage Results" MODIFIED="1677587853274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test" />
+    <SUITE FILE_PATH="coverage/settings$odds.coverage" NAME="odds Coverage Results" MODIFIED="1677590835972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$pars.coverage" NAME="pars Coverage Results" MODIFIED="1677574004154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test" />
+    <SUITE FILE_PATH="coverage/settings$bookmakerratings.coverage" NAME="bookmakerratings Coverage Results" MODIFIED="1677595371392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
     <SUITE FILE_PATH="coverage/settings$site_parser.coverage" NAME="site_parser Coverage Results" MODIFIED="1674810048052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$words__1_.coverage" NAME="words (1) Coverage Results" MODIFIED="1676915773545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$gpt_rewrite_script.coverage" NAME="gpt_rewrite_script Coverage Results" MODIFIED="1676721416110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$main.coverage" NAME="main Coverage Results" MODIFIED="1676911806209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$sportsru.coverage" NAME="sportsru Coverage Results" MODIFIED="1677592277562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
     <SUITE FILE_PATH="coverage/settings$translator_script__1_.coverage" NAME="translator_script (1) Coverage Results" MODIFIED="1676635401376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$days_parser.coverage" NAME="days_parser Coverage Results" MODIFIED="1675004210049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$championat.coverage" NAME="championat Coverage Results" MODIFIED="1677590592734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
     <SUITE FILE_PATH="coverage/settings$games_parser.coverage" NAME="games_parser Coverage Results" MODIFIED="1675068379436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$remove.coverage" NAME="remove Coverage Results" MODIFIED="1676630947119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1676921042778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
-    <SUITE FILE_PATH="coverage/settings$rewrite_article.coverage" NAME="rewrite_article Coverage Results" MODIFIED="1675426192602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1676961216645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$championat_parser.coverage" NAME="championat_parser Coverage Results" MODIFIED="1676459135994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$championat_rewrite_script.coverage" NAME="championat_rewrite_script Coverage Results" MODIFIED="1676723487654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$gpt_test_image_create.coverage" NAME="gpt_test_image_create Coverage Results" MODIFIED="1676632409782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$soccer365.coverage" NAME="soccer365 Coverage Results" MODIFIED="1677595091137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$ironbets.coverage" NAME="ironbets Coverage Results" MODIFIED="1677590684577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$stavkionline.coverage" NAME="stavkionline Coverage Results" MODIFIED="1677592324266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$metaratings.coverage" NAME="metaratings Coverage Results" MODIFIED="1677590786417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$news_maker.coverage" NAME="news_maker Coverage Results" MODIFIED="1677831314434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov/article_writer" />
+    <SUITE FILE_PATH="coverage/settings$gpt_test.coverage" NAME="gpt_test Coverage Results" MODIFIED="1675416391623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$ufc_test.coverage" NAME="ufc_test Coverage Results" MODIFIED="1676042695680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1676912845647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject" />
+    <SUITE FILE_PATH="coverage/settings$gpt_test_davinci.coverage" NAME="gpt_test_davinci Coverage Results" MODIFIED="1676982891508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$championat__1_.coverage" NAME="championat (1) Coverage Results" MODIFIED="1677507725331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$liveresult.coverage" NAME="liveresult Coverage Results" MODIFIED="1677590730304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$words__1_.coverage" NAME="words (1) Coverage Results" MODIFIED="1676915773545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$gpt_rewrite_script.coverage" NAME="gpt_rewrite_script Coverage Results" MODIFIED="1676721416110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$main.coverage" NAME="main Coverage Results" MODIFIED="1676911806209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$champ.coverage" NAME="champ Coverage Results" MODIFIED="1677505534791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test" />
+    <SUITE FILE_PATH="coverage/settings$article_generator__1_.coverage" NAME="article_generator (1) Coverage Results" MODIFIED="1677831984220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov/article_writer" />
+    <SUITE FILE_PATH="coverage/settings$vseprosport.coverage" NAME="vseprosport Coverage Results" MODIFIED="1677592464977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
+    <SUITE FILE_PATH="coverage/settings$rewrite_article.coverage" NAME="rewrite_article Coverage Results" MODIFIED="1675426192602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$stavkiprognozy.coverage" NAME="stavkiprognozy Coverage Results" MODIFIED="1677592378219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test/predict_parser" />
     <SUITE FILE_PATH="coverage/settings$gpt_test_davinchi.coverage" NAME="gpt_test_davinchi Coverage Results" MODIFIED="1675413583104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
     <SUITE FILE_PATH="coverage/settings$news_parser.coverage" NAME="news_parser Coverage Results" MODIFIED="1675672019960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
+    <SUITE FILE_PATH="coverage/settings$article_maker.coverage" NAME="article_maker Coverage Results" MODIFIED="1677595474132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/test" />
     <SUITE FILE_PATH="coverage/settings$gpt_test_davinci_003.coverage" NAME="gpt_test_davinci_003 Coverage Results" MODIFIED="1676632137652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vilomov" />
   </component>
 </project>

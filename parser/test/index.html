@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <title>GPT Article</title>
+</head>
+<body>
+<h1>Введите названия команд через пробел:</h1>
+<form method="post">
+    <input type="text" name="user_input"/>
+    <button type="submit">Ввод</button>
+</form>
+{% if user_input %}
+<h2>Ваши данные:</h2>
+<p>{{ user_input }}</p>
+{% endif %}
+{% if output %}
+<h2>Статья созданная GPT:</h2>
+<p style="white-space:pre-wrap; width:80%" >{{ output }}</p>
+{% endif %}
+</body>
+</html>
