@@ -280,7 +280,11 @@ def index():
     with open('gpt_rewrite_out.txt', 'r') as f:
         output = f.read()
 
+<<<<<<< HEAD
     return render_template('article_generator.html', user_input=user_input, output=output)
+=======
+    return render_template('index.html', user_input=user_input, output=output)
+>>>>>>> origin/main
 
 
 if __name__ == '__main__':
