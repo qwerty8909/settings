@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Links</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<p>There are {{ rows_count }} rows in the dataframe.</p>
+<form id="search-form">
+    <label for="search-input">Search:</label>
+    <input type="text" id="search-input" name="q">
+    <button type="submit">Go</button>
+    <span id="search-count"></span> links found
+</form>
+<ul id="search-results"></ul>
+<script>
+    $(document).ready(function() {
+        $('#search-input').on('input', function() {
+            var query = $(this).val();
+            $.ajax({
+                url: '/search/',
+                data: {'q': query},
+                dataType: 'json',
+                success: function(data) {
+                    $('#search-count').text(data.count);
+                },
+            });
+        });
+        $('#search-form').on('submit', function(event) {
+            event.preventDefault();
+            var query = $('#search-input').val();
+            $.ajax({
+                url: '/search/',
+                data: {'q': query},
+                dataType: 'json',
+                success: function(data) {
+                    $('#search-results').empty();
+                    $.each(data.link_texts, function(index, value) {
+                        var link = $('<a>').attr('href', '#').text(value);
+                        $('#search-results').append($('<li>').append(link));
+                    });
+                },
+            });
+        });
+    });
+</script>
+</body>
+</html>

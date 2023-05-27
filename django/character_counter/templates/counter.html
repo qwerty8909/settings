@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Character Counter</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<input type="text" id="text-input">
+<span id="character-count"></span>
+
+<script>
+    $(document).ready(function() {
+        $('#text-input').on('input', function() {
+            var text = $(this).val();
+            $.ajax({
+                url: '/count_characters/',
+                data: {'text': text},
+                dataType: 'json',
+                success: function(data) {
+                    $('#character-count').text(data.count);
+                }
+            });
+        });
+    });
+</script>
+</body>
+</html>

@@ -35,3 +35,4 @@ aiogram~=2.25.1
 gradio~=3.24.1
 Flask~=2.2.3
 psycopg2~=2.9.5
+Markdown~=3.4.1
