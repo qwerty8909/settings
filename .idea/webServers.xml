@@ -9,6 +9,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="be060f71-beac-4a19-8874-5c2c5afcea7a" name="orangepi">
+        <fileTransfer rootFolder="/home/orangepi" accessType="SFTP" host="192.168.88.30" port="22" sshConfigId="dfcddfd4-ba34-4d8a-8119-ed11e460e9cf" sshConfig="orangepi@192.168.88.30:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

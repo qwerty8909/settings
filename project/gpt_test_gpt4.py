@@ -7,13 +7,13 @@ answer = str
 
 def gpt(question):
     completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo", # gpt-4, gpt-4-0314, gpt-4-32k, gpt-4-32k-0314, gpt-3.5-turbo, gpt-3.5-turbo-0301
+        model="gpt-4", # gpt-4, gpt-4-0314, gpt-4-32k, gpt-4-32k-0314, gpt-3.5-turbo, gpt-3.5-turbo-0301
         messages=[
-            {"role": "system", "content": "You are a very proficient SEO and high end copy writer."},
+            # {"role": "system", "content": "You are a very proficient SEO and high end copy writer."},
             {"role": "user", "content": question}
         ],
         temperature=0.7,
-        max_tokens=400,
+        # max_tokens=400,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0,

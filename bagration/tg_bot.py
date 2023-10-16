@@ -4,8 +4,9 @@ from aiogram.utils import executor
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
-from main.db_select import select_account, update_id, select_address, select_indicator, update_indicator
-from main.keyboard import keyboard_off, keyboard_on, keyboard_indicator
+from main.db_select import check_user_account, insert_user_account, check_account, select_account_address, \
+    select_address, select_indicator, update_indicator, del_account
+from main.keyboard import keyboard_back, keyboard_on, keyboard_indicator, keyboard_address
 
 telegram_token = "5857478137:AAHtaIcU4OR08Yzu_kAglh_Gvr6DHjmObGI"
 
@@ -30,143 +31,148 @@ def log_bot(log_text):
 
 
 class PromptState(StatesGroup):
+    address = State()
     account = State()
-    indicator = State()
+    counter = State()
 
 
 # приветствие
 @dp.message_handler(commands=['start'])
 async def send_welcome(message: types.Message):
-    await message.answer("_Введите лицевой счет_", reply_markup=keyboard_off(), parse_mode="Markdown")
+    log_bot(f"{message.chat.id} - button 'START'")
+    await message.answer(f"_Здравствуйте!\nВыберите действие!_", reply_markup=keyboard_on(), parse_mode="Markdown")
+
+
+# выбор кнопки '< Главное меню >'
+@dp.message_handler(lambda message: message.text == '< Главное меню >', state='*')
+async def menu_button(message: types.Message, state: FSMContext):
+    log_bot(f"{message.chat.id} - button '{message.text}'")
+    await message.answer(f"_В главное меню_", reply_markup=keyboard_on(), parse_mode="Markdown")
+    await state.finish()
+
+
+# выбор кнопки '< Назад >'
+@dp.message_handler(lambda message: message.text == '< Назад >', state='*')
+async def back_button(message: types.Message):
+    await counters_button(message)
+
+
+# выбор кнопки 'Передача показаний счетчиков'
+@dp.message_handler(lambda message: message.text == 'Передать показания счетчиков', state='*')
+async def counters_button(message: types.Message):
+    log_bot(f"{message.chat.id} - button '{message.text}'")
+    if len(keyboard_address(message.chat.id).keyboard[0]):
+        await message.answer("_Выберите квартиру_", reply_markup=keyboard_address(message.chat.id),
+                             parse_mode="Markdown")
+        await PromptState.address.set()
+    else:
+        await message.answer("_Добавьте квартиру_", reply_markup=keyboard_address(message.chat.id),
+                             parse_mode="Markdown")
+
+
+# сопоставить адрес и id
+@dp.message_handler(lambda message: message.text == 'Добавить ЛС', state='*')
+async def add_account(message: types.Message):
+    log_bot(f"{message.chat.id} - button '{message.text}'")
+    await message.answer("_Введите лицевой счет квартиры!_", reply_markup=keyboard_back(), parse_mode="Markdown")
     await PromptState.account.set()
-    log_bot(f"{message.chat.id} - new START command")
 
 
 # привязка id к лицевому счету
 @dp.message_handler(state=PromptState.account)
 async def id_to_account(message: types.Message, state: FSMContext):
+    account_id = message.text
     await state.finish()
     try:
-        update_id(message.chat.id, message.text)
-        await message.answer(
-            f"_Ваш телефон привязан к следующему адресу:_ *{select_address(message.text)}*",
-            reply_markup=keyboard_on(), parse_mode="Markdown")
-        log_bot(f"{message.chat.id} - user get or change account and get address")
-
-    except:
-        await message.answer(f'_Такой лицевой счет не существует._', parse_mode="Markdown")
-        await send_welcome(message)
-
-
-# выбор кнопки 'Передача показаний счетчиков'
-@dp.message_handler(lambda message: message.text == 'Передача показаний счетчиков')
-async def counters_button(message: types.Message):
-    log_bot(f"{message.chat.id} - button {message.text}")
-    await message.answer("_Выберите счетчик_", reply_markup=keyboard_indicator(message.chat.id), parse_mode="Markdown")
-
-
-# выбор кнопки 'Сменить адрес'
-@dp.message_handler(lambda message: message.text == 'Сменить адрес')
-async def change_button(message: types.Message):
-    log_bot(f"{message.chat.id} - button {message.text}")
-    await send_welcome(message)
-
-
-# выбор кнопки '<< Назад >>'
-@dp.message_handler(lambda message: message.text == '<< Назад >>')
-async def back_button(message: types.Message):
-    log_bot(f"{message.chat.id} - button {message.text}")
-    await send_welcome(message)
-
-
-# вывод информации о счетчиках
-async def handle_indication_button(message: types.Message, state: FSMContext, prompt: State):
-    indicator_name = message.text
-    await state.update_data(name=indicator_name)
-    counter_date = select_indicator(indicator_dict[indicator_name][0], message.chat.id)
-    counter_date = datetime.datetime.strptime(counter_date, "%Y-%m-%d %H:%M:%S").date()
-    last_indicator = select_indicator(indicator_dict[indicator_name][1], message.chat.id)
-    new_indicator = select_indicator(indicator_dict[indicator_name][2], message.chat.id) or 0
-    await message.answer(
-        f"_Дата следующей поверки счетчика : {counter_date}\nПредыдущее показание : {last_indicator}\nТекущее показание : {new_indicator}\nВведите новое текущее показание!_",
-        reply_markup=keyboard_indicator(message.chat.id), parse_mode="Markdown")
-    await prompt.set()
-
-
-# применение текущих показаний
-async def handle_counter_check(message: types.Message, state: FSMContext):
-    data = await state.get_data()
-    indicator_name = data.get('name')
-    await state.finish()
-    try:
-        if float(message.text) >= select_indicator(indicator_dict[indicator_name][1], message.chat.id):
-            update_indicator(indicator_dict[indicator_name][2], message.text, message.chat.id)
-            await message.answer(f"_Данные успешно переданы_", reply_markup=keyboard_indicator(message.chat.id),
-                                 parse_mode="Markdown")
-            log_bot(f"{message.chat.id} - button '{indicator_name}' send indicator")
+        if check_user_account(message.chat.id, account_id):
+            log_bot(f"{message.chat.id} - user set to account - ok, exist")
+            await message.answer(f"_Ваш телефон уже привязан к адресу:_ *{select_address(account_id)}*",
+                                 reply_markup=keyboard_address(message.chat.id), parse_mode="Markdown")
+            await counters_button(message)
+        elif check_account(account_id):
+            log_bot(f"{message.chat.id} - user set to account - ok, new")
+            insert_user_account(message.chat.id, account_id)
+            await message.answer(f"_Ваш телефон привязан к следующему адресу:_ *{select_address(account_id)}*",
+                                 reply_markup=keyboard_address(message.chat.id), parse_mode="Markdown")
+            await counters_button(message)
         else:
-            await message.answer(
-                f"_Текущие оказания счетчика не могут быть меньше предыдущего. Возможно Вы ошиблись счетчиком. Заново выберите счетчик и введите показание!_",
-                reply_markup=keyboard_indicator(message.chat.id), parse_mode="Markdown")
-            log_bot(f"{message.chat.id} - button '{indicator_name}' error indicator. small number")
+            log_bot(f"{message.chat.id} - user set to account - error, not exist")
+            await message.answer(f'_Такой лицевой счет не существует. Повторите ввод!_', parse_mode="Markdown")
+            await PromptState.account.set()
     except:
-        await message.answer(
-            f"_Можно вводить только цифры и символ '.' для ввода десятичных значений. Заново выберите счетчик и введите показание!_",
-            reply_markup=keyboard_indicator(message.chat.id), parse_mode="Markdown")
-        log_bot(f"{message.chat.id} - button '{indicator_name}' error indicator. entered not a number")
+        log_bot(f"{message.chat.id} - user set to account - error, not number")
+        await message.answer(f'_Лицевой счет состоит только из цифр. Повторите ввод!_', parse_mode="Markdown")
+        await PromptState.account.set()
+
+
+@dp.message_handler(state=PromptState.address)
+async def select_apartment_id(message: types.Message, state: FSMContext):
+    try:
+        account_id = message.text
+        await message.answer(f"_Адрес: {select_account_address(account_id)}\nВыберите счетчик_",
+                             reply_markup=keyboard_indicator(account_id), parse_mode="Markdown")
+        await state.update_data(account_id=account_id)
+        log_bot(f"{message.chat.id} - button '{message.text}'")
+        await PromptState.counter.set()
+    except:
+        await PromptState.address.set()
 
 
 # выбор кнопки счетчика
-@dp.message_handler(lambda message: message.text in indicator_dict.keys(), state='*')
+@dp.message_handler(lambda message: message.text in indicator_dict.keys(), state=PromptState.counter)
 async def indication_button_handler(message: types.Message, state: FSMContext):
-    indicator = message.text
-    await handle_indication_button(message, state, PromptState.indicator)
-    log_bot(f"{message.chat.id} - button '{indicator}'")
+    counter = message.text
+    await state.update_data(counter=counter)
+    data = await state.get_data()
+    account_id = data.get('account_id')
+    counter_date = select_indicator(indicator_dict[counter][0], account_id)
+    counter_date = datetime.datetime.strptime(counter_date, "%Y-%m-%d %H:%M:%S").date()
+    last_indicator = select_indicator(indicator_dict[counter][1], account_id)
+    new_indicator = select_indicator(indicator_dict[counter][2], account_id) or 0
+    log_bot(f"{message.chat.id} - button '{message.text}'")
+    if counter_date > datetime.datetime.now().date():
+        await message.answer(
+            f"_Дата следующей поверки счетчика : {counter_date}\nПредыдущее показание : {last_indicator}\nТекущее "
+            f"показание : {new_indicator}\nВведите новое текущее показание!_",
+            reply_markup=keyboard_indicator(account_id), parse_mode="Markdown")
+        await PromptState.counter.set()
+    else:
+        await message.answer(
+            f"_У данного счетчика истек межповерочный интервал. Показания не принимаются! Выберите другой счетчик!_",
+            reply_markup=keyboard_indicator(account_id), parse_mode="Markdown")
+        await PromptState.counter.set()
 
 
 # ввод текущих показаний
 @dp.message_handler(state=PromptState, content_types=types.ContentTypes.TEXT)
 async def counter_check_handler(message: types.Message, state: FSMContext):
-    await handle_counter_check(message, state)
+    indicator = message.text
+    data = await state.get_data()
+    account_id = data.get('account_id')
+    counter = data.get('counter')
+    try:
+        indicator_float = float(indicator.replace(",", "."))
+        if indicator_float >= select_indicator(indicator_dict[counter][1], account_id):
+            log_bot(f"{message.chat.id} - button '{counter}' - ok, good indicator")
+            update_indicator(indicator_dict[counter][2], indicator_float, account_id)
+            await message.answer(f"_Данные успешно переданы_", reply_markup=keyboard_indicator(account_id),
+                                 parse_mode="Markdown")
+        else:
+            log_bot(f"{message.chat.id} - button '{counter}' - error, small indicator")
+            await message.answer(
+                f"_Текущие показания счетчика не могут быть меньше предыдущего. Возможно Вы ошиблись счетчиком. "
+                f"Заново выберите счетчик и введите показание!_",
+                reply_markup=keyboard_indicator(account_id), parse_mode="Markdown")
+    except:
+        if counter:
+            log_bot(f"{message.chat.id} - button '{counter}' - error, not number")
+            await message.answer(f"_Некорректное значение.\nЗаново выберите счетчик и введите показание!_",
+                                 reply_markup=keyboard_indicator(account_id), parse_mode="Markdown")
+        else:
+            log_bot(f"{message.chat.id} - button '{counter}' - error, button None")
+            await message.answer(f"_Сперва выберите счетчик!_", reply_markup=keyboard_indicator(account_id),
+                                 parse_mode="Markdown")
 
-
-# @dp.message_handler(lambda message: message.text == 'ХВС 1')
-# async def indication_button(message: types.Message):
-#     log_bot(f"{message.chat.id} - button 'ХВС 1'")
-#     cold_1_date = sqlite_request(f"SELECT cold_1_date FROM bagration  WHERE id = {message.chat.id}")[0][0]
-#     cold_1_date = datetime.datetime.strptime(cold_1_date, "%Y-%m-%d %H:%M:%S").date()
-#     cold_1_last = sqlite_request(f"SELECT cold_1_last FROM bagration  WHERE id = {message.chat.id}")[0][0]
-#     await message.answer(f"_Дата следующей поверки счетчика : {cold_1_date}\nПредыдущее показание : {cold_1_last}_", reply_markup=keyboard_counter(), parse_mode="Markdown")
-#     await PromptState.prompt_cold_1.set()
-#
-#
-# @dp.message_handler(state=PromptState.prompt_cold_1)
-# async def counter_check(message: types.Message, state: FSMContext):
-#     await state.finish()
-#     if float(message.text) >= sqlite_request(f"SELECT cold_1_last FROM bagration  WHERE id = {message.chat.id}")[0][0]:
-#         sqlite_request(f"UPDATE bagration SET cold_1_now = {message.text} WHERE id = {message.chat.id}")
-#         await message.answer(f"_Данные успешно переданы_", reply_markup=keyboard_counter(), parse_mode="Markdown")
-#         log_bot(f"{message.chat.id} - button 'ХВС 1' send indicator")
-#     else:
-#         await message.answer(f"_Текущие оказания счетчика не могут быть меньше предыдущего. Возможно Вы ошиблись счетчиком. Заново выберите счетчик и введите показание_", reply_markup=keyboard_counter(), parse_mode="Markdown")
-#         log_bot(f"{message.chat.id} - button 'ХВС 1' error indicator. try again")
-#
-#
-# @dp.message_handler(lambda message: message.text == 'ГВС 1')
-# async def indication_button(message: types.Message):
-#     log_bot(f"{message.chat.id} - button 'ГВС 1'")
-#     cold_1_date = sqlite_request(f"SELECT hot_1_date FROM bagration  WHERE id = {message.chat.id}")[0][0]
-#     cold_1_last = sqlite_request(f"SELECT hot_1_last FROM bagration  WHERE id = {message.chat.id}")[0][0]
-#     await message.answer(f"_Дата поверки счетчика : {cold_1_date}\nПредыдущее показание : {cold_1_last}_", reply_markup=keyboard_counter(), parse_mode="Markdown")
-#     await PromptState.prompt_hot_1.set()
-#
-#
-# @dp.message_handler(state=PromptState.prompt_hot_1)
-# async def counter_check(message: types.Message, state: FSMContext):
-#     await state.finish()
-#     sqlite_request(f"UPDATE bagration SET hot_1_now = {message.text} WHERE id = {message.chat.id}")
-#     await message.answer(f"_Данные успешно переданы_", reply_markup=keyboard_counter(), parse_mode="Markdown")
-#     log_bot(f"{message.chat.id} - button 'ГВС 1' send indicator")
 
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)

@@ -1,32 +1,22 @@
 import sqlite3
 
 
-def sqlite_request(request):
+def sqlite_request(request, params=()):
     with sqlite3.connect(r"C:\Users\vitalii\IdeaProjects\settings\test.db") as con:
         cur = con.cursor()
-        cur.execute(request)
+        cur.execute(request, params)
         result = cur.fetchall()
         con.commit()
     return result
 
 
-def check_user(tg_id):
-    result = sqlite_request(f"SELECT count(id) FROM user_tg WHERE id = {tg_id};")
-    return result[0][0]
-
-
 def check_account(account):
-    result = sqlite_request(f"SELECT count(account) FROM bagration WHERE account = {account};")
+    result = sqlite_request("SELECT count(account) FROM outline_tg WHERE account = (?);", (account,))
     return result[0][0]
 
 
-def check_user_account(tg_id, account):
-    result = sqlite_request(f"SELECT count(id) FROM user_tg WHERE id = {tg_id} and account = {account};")
-    return result[0][0]
-
-
-def insert_user_account(tg_id, account):
-    sqlite_request(f"INSERT INTO user_tg (id, account) VALUES ({tg_id}, {account});")
+def insert_data(account, payment):
+    sqlite_request("INSERT INTO outline_tg (account, payment) VALUES (?, ?);", (account, payment))
 
 
 def select_indicator_button(column, account):

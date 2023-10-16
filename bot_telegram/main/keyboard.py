@@ -20,8 +20,8 @@ def keyboard_off():
 
 def keyboard_on():
     keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
-    keyboard = keyboard.add(KeyboardButton('Передать показания счетчиков'))
-    # keyboard = keyboard.add(KeyboardButton('Оставить заявку в АДС'))
+    keyboard = keyboard.add(KeyboardButton('Получить ключ'))
+    keyboard = keyboard.add(KeyboardButton('Оплатить VPN'))
     return keyboard
 
 def keyboard_back():
