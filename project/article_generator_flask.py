@@ -21,7 +21,7 @@ def index():
         option4 = request.form.get('option4')
         option5 = request.form.get('option5')
 
-        openai.api_key = ("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")
+        openai.api_key = ("key")
 
         for item in user_input.split('\n'):
             translated_en = GoogleTranslator(source='ru', target='en').translate(item)

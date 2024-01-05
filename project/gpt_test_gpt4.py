@@ -1,7 +1,7 @@
 import openai
 
 # Load your API key from an environment variable or secret management service
-openai.api_key = ("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")
+openai.api_key = ("key")
 question = str
 answer = str
 

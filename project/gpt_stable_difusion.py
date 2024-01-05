@@ -2,7 +2,7 @@ import requests
 
 url = "https://stablediffusionapi.com/api/v3/dreambooth"
 
-payload = {"key": "4lTHuAaagxTcTbWcMg9gdl4yFus4RvoShLSvFkl9Qr7yjLrAzFI2nZViYQ0E",
+payload = {"key": "key",
            "model_id": 'realistic-vision-v13',
            "prompt": "Man on the moon, ultra hd selfie",
            "negative_prompt": None,

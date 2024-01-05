@@ -15,7 +15,7 @@ def index():
             file.write(' ')
 
         key_words = user_input
-        openai.api_key = ("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")
+        openai.api_key = ("key")
 
         with open('/home/project/gpt_rewrite_in.txt', 'w', encoding="utf-8") as file:
             for item in key_words.split('\n'):
@@ -58,4 +58,4 @@ def index():
 
 if __name__ == '__main__':
     from waitress import serve
-    serve(app, host="88.218.169.217", port=8099)
+    serve(app, host="0.0.0.0", port=0000)

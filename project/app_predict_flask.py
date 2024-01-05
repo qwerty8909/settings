@@ -17,7 +17,7 @@ def index():
             file.write(' ')
 
         key_words = user_input.split()
-        openai.api_key = ("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")
+        openai.api_key = ("key")
 
         # проверяем доступность сайта
         games_meta = ['futbol', 'hokkey', 'basketbol', 'tennis']

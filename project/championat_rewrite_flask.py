@@ -7,7 +7,7 @@ from urllib.request import Request, urlopen
 from deep_translator import GoogleTranslator
 
 key_words = ['спартак', 'северсталь']
-openai.api_key = ("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")
+openai.api_key = ("key")
 
 # проверяем доступность сайта
 req = Request(

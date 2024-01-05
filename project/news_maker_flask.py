@@ -27,7 +27,7 @@ def index():
         option4 = request.form.get('option4')
         option5 = request.form.get('option5')
 
-        openai.api_key = ("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")
+        openai.api_key = ("key")
 
         if option1:
             links.append(option1)
@@ -106,4 +106,4 @@ def index():
 if __name__ == '__main__':
     # app.run(debug=True)
     from waitress import serve
-    serve(app, host="88.218.169.217", port=8099)
+    serve(app, host="0.0.0.0", port=0000)

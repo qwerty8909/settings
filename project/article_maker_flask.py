@@ -21,7 +21,7 @@ def index():
         user_input = request.form['user_input']
 
         key_words = user_input.split()
-        openai.api_key = ("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")
+        openai.api_key = ("key")
 
         path = r'/parser/test/data\\'  #
         csv_files = glob.glob(os.path.join(path, "*.csv"))
@@ -119,4 +119,4 @@ def index():
 if __name__ == '__main__':
     app.run()
     # from waitress import serve
-    # serve(app, host="88.218.169.217", port=8098)
+    # serve(app, host="0.0.0.0", port=0000)
