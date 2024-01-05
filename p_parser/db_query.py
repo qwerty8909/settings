@@ -23,11 +23,21 @@ COLUMNS_PROGNOZIST = {
 TABLE_ARTICLES = 'st_articles'
 COLUMNS_ARTICLES = {
         'link': 'VARCHAR(200) NULL PRIMARY KEY',
-        'com1': 'VARCHAR(50) NULL',
-        'com2': 'VARCHAR(50) NULL',
+        'com1': 'VARCHAR(100) NULL',
+        'com2': 'VARCHAR(100) NULL',
         'dt': 'TIMESTAMP NULL'
 }
 
+TABLE_BETWATCH = 'st_betwatch'
+COLUMNS_BETWATCH = {
+        'id': 'VARCHAR(15) NULL PRIMARY KEY',
+        'dt': 'TIMESTAMP NULL',
+        'com1': 'VARCHAR(50) NULL',
+        'com2': 'VARCHAR(50) NULL',
+        'p1': 'SMALLINT',
+        'x': 'SMALLINT',
+        'p2': 'SMALLINT'
+}
 #################################game commands################################
 create_table_games = f"""
     CREATE TABLE IF NOT EXISTS {TABLE_GAMES} (
@@ -74,4 +84,20 @@ insert_elements_articles = f"""
     VALUES (%s, %s, %s, TO_TIMESTAMP(%s) AT TIME ZONE 'Europe/Moscow')
     ON CONFLICT (link) DO UPDATE
     SET {', '.join([f'{col} = EXCLUDED.{col}' for col in COLUMNS_ARTICLES.keys()])};
+"""
+
+#################################betwatch commands################################
+create_table_betwatch = f"""
+    CREATE TABLE IF NOT EXISTS {TABLE_BETWATCH} (
+        {', '.join([f'{col} {type}' for col, type in COLUMNS_BETWATCH.items()])}
+    )
+"""
+
+delete_elements_betwatch = f'''DELETE FROM {TABLE_BETWATCH} WHERE dt < %s;'''
+
+insert_elements_betwatch = f"""
+    INSERT INTO {TABLE_BETWATCH} ({', '.join(COLUMNS_BETWATCH.keys())})
+    VALUES (%s, TO_TIMESTAMP(%s) AT TIME ZONE 'Europe/Moscow', %s, %s, %s, %s, %s)
+    ON CONFLICT (id) DO UPDATE
+    SET {', '.join([f'{col} = EXCLUDED.{col}' for col in COLUMNS_BETWATCH.keys()])};
 """
